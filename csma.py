@@ -1,6 +1,24 @@
 #!/usr/bin/python
 
 import sys
+import random
+
+time = 0
+occupied = 0
+
+def simulate(node_A, node_B)
+    for i in range(0, time):
+        countdown(node_A)
+
+def countdown(node):
+    while node > 0:
+        node = node - 1
+
+def create_nodes(rand_num_range):
+    node_A = random.randint(0, int(rand_num_range))
+    node_B = random.randint(0, int(rand_num_range))
+    simulate(node_A, node_B)
+    
 
 def open_file(f):
     with open(f, 'r') as file:
@@ -20,13 +38,8 @@ def open_file(f):
                 max_retrans = line[1]
             elif(line[0] == 'T'):
                 time = line[1]
-    print num_nodes
-    print packet_size
-    print rand_num_range
-    print consec_coll
-    print max_retrans
-    print time
-    
+    create_nodes(rand_num_range, time)
+
 if __name__ == "__main__":
 
     if(len(sys.argv) < 2):
