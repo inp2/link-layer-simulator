@@ -3,25 +3,16 @@
 import sys
 import random
 
-time = 0
-occupied = 0
+class Node:
+    def __init__(self, flag, backoff):
+        self.flag = 0
+        self.backoff = 0
+        
+def create_nodes(num_nodes, packet_size, rand_num_range, consec_coll, max_retrans, timew):
+    print consec_coll
 
-def simulate(node_A, node_B)
-    for i in range(0, time):
-        countdown(node_A)
-
-def countdown(node):
-    while node > 0:
-        node = node - 1
-
-def create_nodes(rand_num_range):
-    node_A = random.randint(0, int(rand_num_range))
-    node_B = random.randint(0, int(rand_num_range))
-    simulate(node_A, node_B)
-    
-
-def open_file(f):
-    with open(f, 'r') as file:
+def open_file(filename):
+    with open(filename, 'r') as file:
         for fileline in file:
             line = fileline.split()
 
@@ -38,12 +29,11 @@ def open_file(f):
                 max_retrans = line[1]
             elif(line[0] == 'T'):
                 time = line[1]
-    create_nodes(rand_num_range, time)
+        create_nodes(num_nodes, packet_size, rand_num_range, consec_coll, max_retrans, time)
 
-if __name__ == "__main__":
-
+if __name__ == '__main__':
     if(len(sys.argv) < 2):
-       print "Please enter filename"
+        print "usage csma.py <filename>"
     else:
-       filename = str(sys.argv[1])
-       open_file(filename)
+        filename = str(sys.argv[1])
+        open_file(filename)
