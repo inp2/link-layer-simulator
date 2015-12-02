@@ -3,14 +3,34 @@
 import sys
 import random
 
-class Node:
-    def __init__(self, flag, backoff):
-        self.flag = 0
-        self.backoff = 0
-        
-def create_nodes(num_nodes, packet_size, rand_num_range, consec_coll, max_retrans, timew):
-    print consec_coll
+class Channel:
+    def __init__(self):
+        self.idle = True
 
+    def activate(self):
+        self.idle = False
+
+    def isIdle(self):
+        return self.idle
+class Node:
+    def __init__(self, count):
+        self.count = count
+
+def create_nodes(num_nodes, rand_num):
+    node_list = []
+    for i in range(int(num_nodes)):
+        x = Node(random.randint(0, int(rand_num)))
+        node_list.append(x)
+    return node_list
+
+def init_simulator(num_nodes, rand_num, time):
+    channel = Channel()
+    list = create_nodes(num_nodes, rand_num)
+
+    for i in range(int(time)):
+        if(channel.isIdle):
+            print 'Yes'
+            
 def open_file(filename):
     with open(filename, 'r') as file:
         for fileline in file:
@@ -29,7 +49,7 @@ def open_file(filename):
                 max_retrans = line[1]
             elif(line[0] == 'T'):
                 time = line[1]
-        create_nodes(num_nodes, packet_size, rand_num_range, consec_coll, max_retrans, time)
+    init_simulator(num_nodes, rand_num_range, time)
 
 if __name__ == '__main__':
     if(len(sys.argv) < 2):
