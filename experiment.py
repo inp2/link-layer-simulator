@@ -21,3 +21,18 @@ with open('exps.out.json', 'wb') as out:
 
     out.write(json.dumps(dump, indent=4))
 
+R = [1, 2, 4, 8, 16]
+
+with open('exps2.out.json', 'wb') as out:
+    result = [simmulate(n, R, L, M, T) for n in xrange(5, 100+1)]
+    dump = {}
+    for result in results:
+        num_nodes, num_utilized, utilization, var, col_count = result
+        dump[num_nodes] = {
+            'num_utilized': num_utilized,
+            'utilization': utilization,
+            'var' : var,
+            'col_count': col_count
+        }
+
+        out.write(json.dumps(dump, indent=4))
