@@ -15,8 +15,9 @@ class Channel:
         acquire the channel, if it's already activated, return true
         '''
         if self.sender is not None:
-            self.col_count += 1
-            self.collided = True
+            if not self.collided:
+                self.col_count += 1
+                self.collided = True
             return True
 
         self.sender = sender
@@ -119,6 +120,7 @@ def simmulate(num_nodes, rand_nums, packet_size, max_retries, time):
             max_retries)
 
     num_utilized = 0
+    num_idled = 0
     for i in xrange(time):
         if channel.isIdle():
             for node in node_list:
@@ -128,22 +130,26 @@ def simmulate(num_nodes, rand_nums, packet_size, max_retries, time):
                 channel.sender.notify_collision()
                 channel.sender = None
                 channel.collided = False
-
+            elif channel.sender is None:
+                num_idled += 1
+            else:
+                num_utilized += 1
         else:
             channel.sender.tick()
             num_utilized += 1
                 
     utilization = num_utilized / time
+    idling = num_idled / time
     avg = sum(n.col_count for n in node_list) / num_nodes
     var = sum((n.col_count-avg) ** 2 for n in node_list) / num_nodes
 
     with open("output.txt", "wb") as out:
         out.write("%.2f%%\n"% (utilization*100))
-        out.write("%.2f%%\n"% ((1-utilization)*100))
+        out.write("%.2f%%\n"% (idling*100))
         out.write("%d\n"% channel.col_count)
         out.write("%.2f\n"% var)
 
-    return num_nodes, num_utilized, utilization, var, channel.col_count
+    return num_nodes, num_utilized, utilization, idling, var, channel.col_count
     
 
 def run(filename):
