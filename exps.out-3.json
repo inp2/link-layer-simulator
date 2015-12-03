@@ -1,0 +1,3372 @@
+{
+    "40": {
+        "5": {
+            "var": 0.15999999999999998, 
+            "num_utilized": 455428, 
+            "col_count": 1157, 
+            "idling": 0.08683, 
+            "utilization": 0.910856
+        }, 
+        "6": {
+            "var": 0.2222222222222222, 
+            "num_utilized": 460773, 
+            "col_count": 1420, 
+            "idling": 0.075614, 
+            "utilization": 0.921546
+        }, 
+        "7": {
+            "var": 1.2653061224489797, 
+            "num_utilized": 464708, 
+            "col_count": 1876, 
+            "idling": 0.066832, 
+            "utilization": 0.929416
+        }, 
+        "8": {
+            "var": 1.859375, 
+            "num_utilized": 468291, 
+            "col_count": 2123, 
+            "idling": 0.059172, 
+            "utilization": 0.936582
+        }, 
+        "9": {
+            "var": 0.7654320987654322, 
+            "num_utilized": 470652, 
+            "col_count": 2393, 
+            "idling": 0.05391, 
+            "utilization": 0.941304
+        }, 
+        "10": {
+            "var": 0.4400000000000001, 
+            "num_utilized": 472631, 
+            "col_count": 2778, 
+            "idling": 0.049182, 
+            "utilization": 0.945262
+        }, 
+        "11": {
+            "var": 0.23140495867768596, 
+            "num_utilized": 474385, 
+            "col_count": 3074, 
+            "idling": 0.045082, 
+            "utilization": 0.94877
+        }, 
+        "12": {
+            "var": 1.1388888888888888, 
+            "num_utilized": 476562, 
+            "col_count": 3439, 
+            "idling": 0.039998, 
+            "utilization": 0.953124
+        }, 
+        "13": {
+            "var": 1.3136094674556213, 
+            "num_utilized": 477382, 
+            "col_count": 3871, 
+            "idling": 0.037494, 
+            "utilization": 0.954764
+        }, 
+        "14": {
+            "var": 1.2653061224489797, 
+            "num_utilized": 477732, 
+            "col_count": 4333, 
+            "idling": 0.03587, 
+            "utilization": 0.955464
+        }, 
+        "15": {
+            "var": 1.2266666666666668, 
+            "num_utilized": 478732, 
+            "col_count": 4887, 
+            "idling": 0.032762, 
+            "utilization": 0.957464
+        }, 
+        "16": {
+            "var": 0.8125, 
+            "num_utilized": 479136, 
+            "col_count": 5392, 
+            "idling": 0.030944, 
+            "utilization": 0.958272
+        }, 
+        "17": {
+            "var": 1.5155709342560553, 
+            "num_utilized": 479624, 
+            "col_count": 5849, 
+            "idling": 0.029054, 
+            "utilization": 0.959248
+        }, 
+        "18": {
+            "var": 1.9783950617283952, 
+            "num_utilized": 479896, 
+            "col_count": 6288, 
+            "idling": 0.027632, 
+            "utilization": 0.959792
+        }, 
+        "19": {
+            "var": 2.21606648199446, 
+            "num_utilized": 480229, 
+            "col_count": 6709, 
+            "idling": 0.026124, 
+            "utilization": 0.960458
+        }, 
+        "20": {
+            "var": 1.2, 
+            "num_utilized": 480385, 
+            "col_count": 7183, 
+            "idling": 0.024864, 
+            "utilization": 0.96077
+        }, 
+        "21": {
+            "var": 1.6099773242630386, 
+            "num_utilized": 480700, 
+            "col_count": 7552, 
+            "idling": 0.023496, 
+            "utilization": 0.9614
+        }, 
+        "22": {
+            "var": 1.2665289256198344, 
+            "num_utilized": 480289, 
+            "col_count": 8233, 
+            "idling": 0.022956, 
+            "utilization": 0.960578
+        }, 
+        "23": {
+            "var": 1.5349716446124761, 
+            "num_utilized": 480592, 
+            "col_count": 8742, 
+            "idling": 0.021332, 
+            "utilization": 0.961184
+        }, 
+        "24": {
+            "var": 1.3732638888888884, 
+            "num_utilized": 480735, 
+            "col_count": 9203, 
+            "idling": 0.020124, 
+            "utilization": 0.96147
+        }, 
+        "25": {
+            "var": 1.1424000000000003, 
+            "num_utilized": 479602, 
+            "col_count": 10306, 
+            "idling": 0.020184, 
+            "utilization": 0.959204
+        }, 
+        "26": {
+            "var": 1.5384615384615385, 
+            "num_utilized": 479699, 
+            "col_count": 10799, 
+            "idling": 0.019004, 
+            "utilization": 0.959398
+        }, 
+        "27": {
+            "var": 1.2290809327846364, 
+            "num_utilized": 480308, 
+            "col_count": 10848, 
+            "idling": 0.017688, 
+            "utilization": 0.960616
+        }, 
+        "28": {
+            "var": 1.0255102040816324, 
+            "num_utilized": 479262, 
+            "col_count": 11887, 
+            "idling": 0.017702, 
+            "utilization": 0.958524
+        }, 
+        "29": {
+            "var": 1.4292508917954818, 
+            "num_utilized": 479550, 
+            "col_count": 12238, 
+            "idling": 0.016424, 
+            "utilization": 0.9591
+        }, 
+        "30": {
+            "var": 0.6322222222222219, 
+            "num_utilized": 478515, 
+            "col_count": 13314, 
+            "idling": 0.016342, 
+            "utilization": 0.95703
+        }, 
+        "31": {
+            "var": 1.5546305931321538, 
+            "num_utilized": 478194, 
+            "col_count": 13855, 
+            "idling": 0.015902, 
+            "utilization": 0.956388
+        }, 
+        "32": {
+            "var": 0.7880859375, 
+            "num_utilized": 477867, 
+            "col_count": 14462, 
+            "idling": 0.015342, 
+            "utilization": 0.955734
+        }, 
+        "33": {
+            "var": 1.2139577594123059, 
+            "num_utilized": 476754, 
+            "col_count": 15573, 
+            "idling": 0.015346, 
+            "utilization": 0.953508
+        }, 
+        "34": {
+            "var": 1.5155709342560555, 
+            "num_utilized": 476317, 
+            "col_count": 16360, 
+            "idling": 0.014646, 
+            "utilization": 0.952634
+        }, 
+        "35": {
+            "var": 1.542857142857143, 
+            "num_utilized": 475916, 
+            "col_count": 17062, 
+            "idling": 0.014044, 
+            "utilization": 0.951832
+        }, 
+        "36": {
+            "var": 1.1010802469135803, 
+            "num_utilized": 475407, 
+            "col_count": 17805, 
+            "idling": 0.013576, 
+            "utilization": 0.950814
+        }, 
+        "37": {
+            "var": 1.2695398100803508, 
+            "num_utilized": 475008, 
+            "col_count": 18476, 
+            "idling": 0.013032, 
+            "utilization": 0.950016
+        }, 
+        "38": {
+            "var": 0.7818559556786703, 
+            "num_utilized": 474316, 
+            "col_count": 19259, 
+            "idling": 0.01285, 
+            "utilization": 0.948632
+        }, 
+        "39": {
+            "var": 0.556213017751479, 
+            "num_utilized": 473646, 
+            "col_count": 20147, 
+            "idling": 0.012414, 
+            "utilization": 0.947292
+        }, 
+        "40": {
+            "var": 0.9193749999999999, 
+            "num_utilized": 472512, 
+            "col_count": 21339, 
+            "idling": 0.012298, 
+            "utilization": 0.945024
+        }, 
+        "41": {
+            "var": 1.200475907198096, 
+            "num_utilized": 471992, 
+            "col_count": 22087, 
+            "idling": 0.011842, 
+            "utilization": 0.943984
+        }, 
+        "42": {
+            "var": 1.308956916099774, 
+            "num_utilized": 470963, 
+            "col_count": 23368, 
+            "idling": 0.011338, 
+            "utilization": 0.941926
+        }, 
+        "43": {
+            "var": 1.2190373174689022, 
+            "num_utilized": 469972, 
+            "col_count": 24392, 
+            "idling": 0.011272, 
+            "utilization": 0.939944
+        }, 
+        "44": {
+            "var": 1.613119834710743, 
+            "num_utilized": 468933, 
+            "col_count": 25590, 
+            "idling": 0.010954, 
+            "utilization": 0.937866
+        }, 
+        "45": {
+            "var": 1.4202469135802476, 
+            "num_utilized": 468454, 
+            "col_count": 26275, 
+            "idling": 0.010542, 
+            "utilization": 0.936908
+        }, 
+        "46": {
+            "var": 1.1157844990548207, 
+            "num_utilized": 467019, 
+            "col_count": 27794, 
+            "idling": 0.010374, 
+            "utilization": 0.934038
+        }, 
+        "47": {
+            "var": 1.04753282028067, 
+            "num_utilized": 465973, 
+            "col_count": 28972, 
+            "idling": 0.01011, 
+            "utilization": 0.931946
+        }, 
+        "48": {
+            "var": 1.2669270833333333, 
+            "num_utilized": 465208, 
+            "col_count": 29775, 
+            "idling": 0.010034, 
+            "utilization": 0.930416
+        }, 
+        "49": {
+            "var": 1.235318617242816, 
+            "num_utilized": 463954, 
+            "col_count": 31307, 
+            "idling": 0.009478, 
+            "utilization": 0.927908
+        }, 
+        "50": {
+            "var": 1.3584000000000003, 
+            "num_utilized": 463299, 
+            "col_count": 32011, 
+            "idling": 0.00938, 
+            "utilization": 0.926598
+        }, 
+        "51": {
+            "var": 1.2948865820838138, 
+            "num_utilized": 460802, 
+            "col_count": 34597, 
+            "idling": 0.009202, 
+            "utilization": 0.921604
+        }, 
+        "52": {
+            "var": 0.509985207100592, 
+            "num_utilized": 460220, 
+            "col_count": 35196, 
+            "idling": 0.009168, 
+            "utilization": 0.92044
+        }, 
+        "53": {
+            "var": 0.9191883232467076, 
+            "num_utilized": 458709, 
+            "col_count": 36788, 
+            "idling": 0.009006, 
+            "utilization": 0.917418
+        }, 
+        "54": {
+            "var": 0.8148148148148145, 
+            "num_utilized": 457227, 
+            "col_count": 38448, 
+            "idling": 0.00865, 
+            "utilization": 0.914454
+        }, 
+        "55": {
+            "var": 1.5061157024793392, 
+            "num_utilized": 456049, 
+            "col_count": 39754, 
+            "idling": 0.008394, 
+            "utilization": 0.912098
+        }, 
+        "56": {
+            "var": 1.0255102040816324, 
+            "num_utilized": 454321, 
+            "col_count": 41456, 
+            "idling": 0.008446, 
+            "utilization": 0.908642
+        }, 
+        "57": {
+            "var": 1.0710987996306547, 
+            "num_utilized": 453731, 
+            "col_count": 42180, 
+            "idling": 0.008178, 
+            "utilization": 0.907462
+        }, 
+        "58": {
+            "var": 1.1037455410225911, 
+            "num_utilized": 451869, 
+            "col_count": 44184, 
+            "idling": 0.007894, 
+            "utilization": 0.903738
+        }, 
+        "59": {
+            "var": 0.917552427463373, 
+            "num_utilized": 450653, 
+            "col_count": 45446, 
+            "idling": 0.007802, 
+            "utilization": 0.901306
+        }, 
+        "60": {
+            "var": 1.0722222222222222, 
+            "num_utilized": 448745, 
+            "col_count": 47458, 
+            "idling": 0.007594, 
+            "utilization": 0.89749
+        }, 
+        "61": {
+            "var": 1.0292932007524853, 
+            "num_utilized": 446814, 
+            "col_count": 49431, 
+            "idling": 0.00751, 
+            "utilization": 0.893628
+        }, 
+        "62": {
+            "var": 0.8095733610822055, 
+            "num_utilized": 445645, 
+            "col_count": 50581, 
+            "idling": 0.007548, 
+            "utilization": 0.89129
+        }, 
+        "63": {
+            "var": 1.3605442176870757, 
+            "num_utilized": 443678, 
+            "col_count": 52684, 
+            "idling": 0.007276, 
+            "utilization": 0.887356
+        }, 
+        "64": {
+            "var": 1.546875, 
+            "num_utilized": 440492, 
+            "col_count": 55873, 
+            "idling": 0.00727, 
+            "utilization": 0.880984
+        }, 
+        "65": {
+            "var": 1.3940828402366858, 
+            "num_utilized": 439443, 
+            "col_count": 57071, 
+            "idling": 0.006972, 
+            "utilization": 0.878886
+        }, 
+        "66": {
+            "var": 1.167125803489439, 
+            "num_utilized": 438312, 
+            "col_count": 58330, 
+            "idling": 0.006716, 
+            "utilization": 0.876624
+        }, 
+        "67": {
+            "var": 1.2715526843394969, 
+            "num_utilized": 436761, 
+            "col_count": 59911, 
+            "idling": 0.006656, 
+            "utilization": 0.873522
+        }, 
+        "68": {
+            "var": 1.339965397923875, 
+            "num_utilized": 433508, 
+            "col_count": 63225, 
+            "idling": 0.006534, 
+            "utilization": 0.867016
+        }, 
+        "69": {
+            "var": 1.1913463558076034, 
+            "num_utilized": 431214, 
+            "col_count": 65530, 
+            "idling": 0.006512, 
+            "utilization": 0.862428
+        }, 
+        "70": {
+            "var": 1.5420408163265307, 
+            "num_utilized": 428294, 
+            "col_count": 68486, 
+            "idling": 0.00644, 
+            "utilization": 0.856588
+        }, 
+        "71": {
+            "var": 1.332275342194009, 
+            "num_utilized": 426769, 
+            "col_count": 70101, 
+            "idling": 0.00626, 
+            "utilization": 0.853538
+        }, 
+        "72": {
+            "var": 0.7932098765432092, 
+            "num_utilized": 424596, 
+            "col_count": 72468, 
+            "idling": 0.005872, 
+            "utilization": 0.849192
+        }, 
+        "73": {
+            "var": 1.7718145993619798, 
+            "num_utilized": 422894, 
+            "col_count": 74165, 
+            "idling": 0.005882, 
+            "utilization": 0.845788
+        }, 
+        "74": {
+            "var": 1.6574141709276844, 
+            "num_utilized": 419102, 
+            "col_count": 78064, 
+            "idling": 0.005668, 
+            "utilization": 0.838204
+        }, 
+        "75": {
+            "var": 1.0943999999999996, 
+            "num_utilized": 416036, 
+            "col_count": 81105, 
+            "idling": 0.005718, 
+            "utilization": 0.832072
+        }, 
+        "76": {
+            "var": 1.1736495844875343, 
+            "num_utilized": 415986, 
+            "col_count": 81289, 
+            "idling": 0.00545, 
+            "utilization": 0.831972
+        }, 
+        "77": {
+            "var": 1.107100691516276, 
+            "num_utilized": 410510, 
+            "col_count": 86625, 
+            "idling": 0.00573, 
+            "utilization": 0.82102
+        }, 
+        "78": {
+            "var": 1.4117357001972408, 
+            "num_utilized": 408278, 
+            "col_count": 89029, 
+            "idling": 0.005386, 
+            "utilization": 0.816556
+        }, 
+        "79": {
+            "var": 1.173850344496075, 
+            "num_utilized": 407551, 
+            "col_count": 89836, 
+            "idling": 0.005226, 
+            "utilization": 0.815102
+        }, 
+        "80": {
+            "var": 1.315000000000001, 
+            "num_utilized": 402133, 
+            "col_count": 95230, 
+            "idling": 0.005274, 
+            "utilization": 0.804266
+        }, 
+        "81": {
+            "var": 1.0391708581008987, 
+            "num_utilized": 400160, 
+            "col_count": 97209, 
+            "idling": 0.005262, 
+            "utilization": 0.80032
+        }, 
+        "82": {
+            "var": 1.3499405116002385, 
+            "num_utilized": 398578, 
+            "col_count": 98986, 
+            "idling": 0.004872, 
+            "utilization": 0.797156
+        }, 
+        "83": {
+            "var": 1.4492669473073025, 
+            "num_utilized": 394437, 
+            "col_count": 103173, 
+            "idling": 0.00478, 
+            "utilization": 0.788874
+        }, 
+        "84": {
+            "var": 1.2052154195011335, 
+            "num_utilized": 391426, 
+            "col_count": 106206, 
+            "idling": 0.004736, 
+            "utilization": 0.782852
+        }, 
+        "85": {
+            "var": 1.1017301038062286, 
+            "num_utilized": 389208, 
+            "col_count": 108456, 
+            "idling": 0.004672, 
+            "utilization": 0.778416
+        }, 
+        "86": {
+            "var": 1.3401838831800976, 
+            "num_utilized": 384686, 
+            "col_count": 112886, 
+            "idling": 0.004856, 
+            "utilization": 0.769372
+        }, 
+        "87": {
+            "var": 1.2366230677764574, 
+            "num_utilized": 381836, 
+            "col_count": 115886, 
+            "idling": 0.004556, 
+            "utilization": 0.763672
+        }, 
+        "88": {
+            "var": 1.0123966942148757, 
+            "num_utilized": 377651, 
+            "col_count": 120165, 
+            "idling": 0.004368, 
+            "utilization": 0.755302
+        }, 
+        "89": {
+            "var": 0.9385178639060734, 
+            "num_utilized": 373804, 
+            "col_count": 124042, 
+            "idling": 0.004308, 
+            "utilization": 0.747608
+        }, 
+        "90": {
+            "var": 0.9772839506172832, 
+            "num_utilized": 370681, 
+            "col_count": 127292, 
+            "idling": 0.004054, 
+            "utilization": 0.741362
+        }, 
+        "91": {
+            "var": 1.196715372539548, 
+            "num_utilized": 366472, 
+            "col_count": 131458, 
+            "idling": 0.00414, 
+            "utilization": 0.732944
+        }, 
+        "92": {
+            "var": 0.8056474480151228, 
+            "num_utilized": 364346, 
+            "col_count": 133579, 
+            "idling": 0.00415, 
+            "utilization": 0.728692
+        }, 
+        "93": {
+            "var": 1.3627008902763311, 
+            "num_utilized": 358401, 
+            "col_count": 139555, 
+            "idling": 0.004088, 
+            "utilization": 0.716802
+        }, 
+        "94": {
+            "var": 1.530104119511093, 
+            "num_utilized": 355749, 
+            "col_count": 142307, 
+            "idling": 0.003888, 
+            "utilization": 0.711498
+        }, 
+        "95": {
+            "var": 1.4298060941828252, 
+            "num_utilized": 350883, 
+            "col_count": 147219, 
+            "idling": 0.003796, 
+            "utilization": 0.701766
+        }, 
+        "96": {
+            "var": 1.4162326388888886, 
+            "num_utilized": 348782, 
+            "col_count": 149374, 
+            "idling": 0.003688, 
+            "utilization": 0.697564
+        }, 
+        "97": {
+            "var": 1.1946009140184923, 
+            "num_utilized": 343857, 
+            "col_count": 154373, 
+            "idling": 0.00354, 
+            "utilization": 0.687714
+        }, 
+        "98": {
+            "var": 1.3744273219491865, 
+            "num_utilized": 340050, 
+            "col_count": 158167, 
+            "idling": 0.003566, 
+            "utilization": 0.6801
+        }, 
+        "99": {
+            "var": 1.37332925211713, 
+            "num_utilized": 335145, 
+            "col_count": 163105, 
+            "idling": 0.0035, 
+            "utilization": 0.67029
+        }, 
+        "100": {
+            "var": 0.8058999999999997, 
+            "num_utilized": 330681, 
+            "col_count": 167691, 
+            "idling": 0.003256, 
+            "utilization": 0.661362
+        }
+    }, 
+    "60": {
+        "5": {
+            "var": 1.6, 
+            "num_utilized": 467443, 
+            "col_count": 727, 
+            "idling": 0.06366, 
+            "utilization": 0.934886
+        }, 
+        "6": {
+            "var": 1.888888888888889, 
+            "num_utilized": 471990, 
+            "col_count": 975, 
+            "idling": 0.05407, 
+            "utilization": 0.94398
+        }, 
+        "7": {
+            "var": 0.7755102040816327, 
+            "num_utilized": 475054, 
+            "col_count": 1187, 
+            "idling": 0.047518, 
+            "utilization": 0.950108
+        }, 
+        "8": {
+            "var": 2.734375, 
+            "num_utilized": 478486, 
+            "col_count": 1399, 
+            "idling": 0.04023, 
+            "utilization": 0.956972
+        }, 
+        "9": {
+            "var": 0.2222222222222222, 
+            "num_utilized": 480253, 
+            "col_count": 1707, 
+            "idling": 0.03608, 
+            "utilization": 0.960506
+        }, 
+        "10": {
+            "var": 2.1599999999999997, 
+            "num_utilized": 481917, 
+            "col_count": 1907, 
+            "idling": 0.032352, 
+            "utilization": 0.963834
+        }, 
+        "11": {
+            "var": 0.38016528925619836, 
+            "num_utilized": 482937, 
+            "col_count": 2248, 
+            "idling": 0.02963, 
+            "utilization": 0.965874
+        }, 
+        "12": {
+            "var": 1.0555555555555556, 
+            "num_utilized": 483839, 
+            "col_count": 2538, 
+            "idling": 0.027246, 
+            "utilization": 0.967678
+        }, 
+        "13": {
+            "var": 0.9822485207100592, 
+            "num_utilized": 484742, 
+            "col_count": 2786, 
+            "idling": 0.024944, 
+            "utilization": 0.969484
+        }, 
+        "14": {
+            "var": 0.9438775510204083, 
+            "num_utilized": 485037, 
+            "col_count": 3022, 
+            "idling": 0.023882, 
+            "utilization": 0.970074
+        }, 
+        "15": {
+            "var": 1.2888888888888888, 
+            "num_utilized": 485479, 
+            "col_count": 3188, 
+            "idling": 0.022666, 
+            "utilization": 0.970958
+        }, 
+        "16": {
+            "var": 1.21484375, 
+            "num_utilized": 485743, 
+            "col_count": 3743, 
+            "idling": 0.021028, 
+            "utilization": 0.971486
+        }, 
+        "17": {
+            "var": 0.7335640138408306, 
+            "num_utilized": 486360, 
+            "col_count": 3857, 
+            "idling": 0.019566, 
+            "utilization": 0.97272
+        }, 
+        "18": {
+            "var": 0.6913580246913583, 
+            "num_utilized": 486362, 
+            "col_count": 4255, 
+            "idling": 0.018766, 
+            "utilization": 0.972724
+        }, 
+        "19": {
+            "var": 0.8642659279778394, 
+            "num_utilized": 486727, 
+            "col_count": 4606, 
+            "idling": 0.017334, 
+            "utilization": 0.973454
+        }, 
+        "20": {
+            "var": 1.0274999999999999, 
+            "num_utilized": 486949, 
+            "col_count": 4847, 
+            "idling": 0.016408, 
+            "utilization": 0.973898
+        }, 
+        "21": {
+            "var": 2.503401360544218, 
+            "num_utilized": 486521, 
+            "col_count": 5450, 
+            "idling": 0.016058, 
+            "utilization": 0.973042
+        }, 
+        "22": {
+            "var": 1.4814049586776858, 
+            "num_utilized": 487047, 
+            "col_count": 5499, 
+            "idling": 0.014908, 
+            "utilization": 0.974094
+        }, 
+        "23": {
+            "var": 1.606805293005671, 
+            "num_utilized": 486959, 
+            "col_count": 5853, 
+            "idling": 0.014376, 
+            "utilization": 0.973918
+        }, 
+        "24": {
+            "var": 1.1649305555555556, 
+            "num_utilized": 486466, 
+            "col_count": 6466, 
+            "idling": 0.014136, 
+            "utilization": 0.972932
+        }, 
+        "25": {
+            "var": 1.6384000000000003, 
+            "num_utilized": 486812, 
+            "col_count": 6571, 
+            "idling": 0.013234, 
+            "utilization": 0.973624
+        }, 
+        "26": {
+            "var": 1.177514792899408, 
+            "num_utilized": 486160, 
+            "col_count": 7225, 
+            "idling": 0.01323, 
+            "utilization": 0.97232
+        }, 
+        "27": {
+            "var": 0.9135802469135804, 
+            "num_utilized": 486368, 
+            "col_count": 7448, 
+            "idling": 0.012368, 
+            "utilization": 0.972736
+        }, 
+        "28": {
+            "var": 0.7295918367346937, 
+            "num_utilized": 486012, 
+            "col_count": 7982, 
+            "idling": 0.012012, 
+            "utilization": 0.972024
+        }, 
+        "29": {
+            "var": 1.4149821640903686, 
+            "num_utilized": 485767, 
+            "col_count": 8476, 
+            "idling": 0.011514, 
+            "utilization": 0.971534
+        }, 
+        "30": {
+            "var": 1.143333333333334, 
+            "num_utilized": 485809, 
+            "col_count": 8757, 
+            "idling": 0.010868, 
+            "utilization": 0.971618
+        }, 
+        "31": {
+            "var": 0.8949011446409992, 
+            "num_utilized": 485190, 
+            "col_count": 9551, 
+            "idling": 0.010518, 
+            "utilization": 0.97038
+        }, 
+        "32": {
+            "var": 1.1396484375, 
+            "num_utilized": 484808, 
+            "col_count": 10001, 
+            "idling": 0.010382, 
+            "utilization": 0.969616
+        }, 
+        "33": {
+            "var": 0.9164370982552796, 
+            "num_utilized": 484129, 
+            "col_count": 10659, 
+            "idling": 0.010424, 
+            "utilization": 0.968258
+        }, 
+        "34": {
+            "var": 1.3217993079584769, 
+            "num_utilized": 484175, 
+            "col_count": 11059, 
+            "idling": 0.009532, 
+            "utilization": 0.96835
+        }, 
+        "35": {
+            "var": 1.219591836734694, 
+            "num_utilized": 483582, 
+            "col_count": 11640, 
+            "idling": 0.009556, 
+            "utilization": 0.967164
+        }, 
+        "36": {
+            "var": 2.156635802469135, 
+            "num_utilized": 483571, 
+            "col_count": 11912, 
+            "idling": 0.009034, 
+            "utilization": 0.967142
+        }, 
+        "37": {
+            "var": 1.4273192111029949, 
+            "num_utilized": 482615, 
+            "col_count": 12729, 
+            "idling": 0.009312, 
+            "utilization": 0.96523
+        }, 
+        "38": {
+            "var": 0.775623268698061, 
+            "num_utilized": 482485, 
+            "col_count": 13148, 
+            "idling": 0.008734, 
+            "utilization": 0.96497
+        }, 
+        "39": {
+            "var": 1.0861275476660095, 
+            "num_utilized": 481663, 
+            "col_count": 13967, 
+            "idling": 0.00874, 
+            "utilization": 0.963326
+        }, 
+        "40": {
+            "var": 1.8493749999999998, 
+            "num_utilized": 481965, 
+            "col_count": 14090, 
+            "idling": 0.00789, 
+            "utilization": 0.96393
+        }, 
+        "41": {
+            "var": 1.5716835217132648, 
+            "num_utilized": 481166, 
+            "col_count": 14887, 
+            "idling": 0.007894, 
+            "utilization": 0.962332
+        }, 
+        "42": {
+            "var": 0.9620181405895691, 
+            "num_utilized": 480011, 
+            "col_count": 16012, 
+            "idling": 0.007954, 
+            "utilization": 0.960022
+        }, 
+        "43": {
+            "var": 1.0816657652785295, 
+            "num_utilized": 479578, 
+            "col_count": 16601, 
+            "idling": 0.007642, 
+            "utilization": 0.959156
+        }, 
+        "44": {
+            "var": 1.8904958677685948, 
+            "num_utilized": 478849, 
+            "col_count": 17358, 
+            "idling": 0.007586, 
+            "utilization": 0.957698
+        }, 
+        "45": {
+            "var": 1.1180246913580254, 
+            "num_utilized": 477874, 
+            "col_count": 18374, 
+            "idling": 0.007504, 
+            "utilization": 0.955748
+        }, 
+        "46": {
+            "var": 0.9829867674858224, 
+            "num_utilized": 477756, 
+            "col_count": 18675, 
+            "idling": 0.007138, 
+            "utilization": 0.955512
+        }, 
+        "47": {
+            "var": 1.0900860117700315, 
+            "num_utilized": 476579, 
+            "col_count": 19893, 
+            "idling": 0.007056, 
+            "utilization": 0.953158
+        }, 
+        "48": {
+            "var": 0.9565972222222219, 
+            "num_utilized": 476152, 
+            "col_count": 20425, 
+            "idling": 0.006846, 
+            "utilization": 0.952304
+        }, 
+        "49": {
+            "var": 1.316118284048313, 
+            "num_utilized": 474584, 
+            "col_count": 21982, 
+            "idling": 0.006868, 
+            "utilization": 0.949168
+        }, 
+        "50": {
+            "var": 1.4900000000000002, 
+            "num_utilized": 474272, 
+            "col_count": 22428, 
+            "idling": 0.0066, 
+            "utilization": 0.948544
+        }, 
+        "51": {
+            "var": 1.382545174932719, 
+            "num_utilized": 473155, 
+            "col_count": 23687, 
+            "idling": 0.006316, 
+            "utilization": 0.94631
+        }, 
+        "52": {
+            "var": 1.3235946745562126, 
+            "num_utilized": 472468, 
+            "col_count": 24405, 
+            "idling": 0.006254, 
+            "utilization": 0.944936
+        }, 
+        "53": {
+            "var": 1.1918832324670692, 
+            "num_utilized": 472024, 
+            "col_count": 25012, 
+            "idling": 0.005928, 
+            "utilization": 0.944048
+        }, 
+        "54": {
+            "var": 1.3858024691358026, 
+            "num_utilized": 470748, 
+            "col_count": 26225, 
+            "idling": 0.006054, 
+            "utilization": 0.941496
+        }, 
+        "55": {
+            "var": 0.8495867768595035, 
+            "num_utilized": 469980, 
+            "col_count": 27046, 
+            "idling": 0.005948, 
+            "utilization": 0.93996
+        }, 
+        "56": {
+            "var": 1.249681122448979, 
+            "num_utilized": 469009, 
+            "col_count": 28117, 
+            "idling": 0.005748, 
+            "utilization": 0.938018
+        }, 
+        "57": {
+            "var": 0.8168667282240697, 
+            "num_utilized": 467364, 
+            "col_count": 29823, 
+            "idling": 0.005626, 
+            "utilization": 0.934728
+        }, 
+        "58": {
+            "var": 1.0261593341260404, 
+            "num_utilized": 466466, 
+            "col_count": 30749, 
+            "idling": 0.00557, 
+            "utilization": 0.932932
+        }, 
+        "59": {
+            "var": 1.2479172651536925, 
+            "num_utilized": 464847, 
+            "col_count": 32332, 
+            "idling": 0.005642, 
+            "utilization": 0.929694
+        }, 
+        "60": {
+            "var": 1.3030555555555556, 
+            "num_utilized": 464422, 
+            "col_count": 32906, 
+            "idling": 0.005344, 
+            "utilization": 0.928844
+        }, 
+        "61": {
+            "var": 1.203439935501209, 
+            "num_utilized": 463207, 
+            "col_count": 34248, 
+            "idling": 0.00509, 
+            "utilization": 0.926414
+        }, 
+        "62": {
+            "var": 1.3686264308012488, 
+            "num_utilized": 462731, 
+            "col_count": 34808, 
+            "idling": 0.004922, 
+            "utilization": 0.925462
+        }, 
+        "63": {
+            "var": 1.62862181909801, 
+            "num_utilized": 460439, 
+            "col_count": 36969, 
+            "idling": 0.005184, 
+            "utilization": 0.920878
+        }, 
+        "64": {
+            "var": 0.8662109375, 
+            "num_utilized": 458974, 
+            "col_count": 38609, 
+            "idling": 0.004834, 
+            "utilization": 0.917948
+        }, 
+        "65": {
+            "var": 0.8037869822485207, 
+            "num_utilized": 457378, 
+            "col_count": 40142, 
+            "idling": 0.00496, 
+            "utilization": 0.914756
+        }, 
+        "66": {
+            "var": 1.6666666666666667, 
+            "num_utilized": 455833, 
+            "col_count": 41666, 
+            "idling": 0.005002, 
+            "utilization": 0.911666
+        }, 
+        "67": {
+            "var": 1.0902205390955666, 
+            "num_utilized": 454566, 
+            "col_count": 43060, 
+            "idling": 0.004748, 
+            "utilization": 0.909132
+        }, 
+        "68": {
+            "var": 0.753243944636678, 
+            "num_utilized": 452088, 
+            "col_count": 45499, 
+            "idling": 0.004826, 
+            "utilization": 0.904176
+        }, 
+        "69": {
+            "var": 1.5576559546313797, 
+            "num_utilized": 452077, 
+            "col_count": 45708, 
+            "idling": 0.00443, 
+            "utilization": 0.904154
+        }, 
+        "70": {
+            "var": 1.0263265306122453, 
+            "num_utilized": 449478, 
+            "col_count": 48373, 
+            "idling": 0.004298, 
+            "utilization": 0.898956
+        }, 
+        "71": {
+            "var": 1.0835151755604053, 
+            "num_utilized": 448830, 
+            "col_count": 49008, 
+            "idling": 0.004324, 
+            "utilization": 0.89766
+        }, 
+        "72": {
+            "var": 1.3655478395061726, 
+            "num_utilized": 446161, 
+            "col_count": 51627, 
+            "idling": 0.004424, 
+            "utilization": 0.892322
+        }, 
+        "73": {
+            "var": 1.3357102645899794, 
+            "num_utilized": 444385, 
+            "col_count": 53550, 
+            "idling": 0.00413, 
+            "utilization": 0.88877
+        }, 
+        "74": {
+            "var": 1.2850620891161433, 
+            "num_utilized": 442749, 
+            "col_count": 55168, 
+            "idling": 0.004166, 
+            "utilization": 0.885498
+        }, 
+        "75": {
+            "var": 1.4051555555555544, 
+            "num_utilized": 440388, 
+            "col_count": 57534, 
+            "idling": 0.004156, 
+            "utilization": 0.880776
+        }, 
+        "76": {
+            "var": 1.1501038781163422, 
+            "num_utilized": 439898, 
+            "col_count": 58091, 
+            "idling": 0.004022, 
+            "utilization": 0.879796
+        }, 
+        "77": {
+            "var": 1.8434811941305442, 
+            "num_utilized": 437275, 
+            "col_count": 60713, 
+            "idling": 0.004024, 
+            "utilization": 0.87455
+        }, 
+        "78": {
+            "var": 1.085634451019066, 
+            "num_utilized": 434936, 
+            "col_count": 63191, 
+            "idling": 0.003746, 
+            "utilization": 0.869872
+        }, 
+        "79": {
+            "var": 1.3404903060406983, 
+            "num_utilized": 433885, 
+            "col_count": 64287, 
+            "idling": 0.003656, 
+            "utilization": 0.86777
+        }, 
+        "80": {
+            "var": 1.1625, 
+            "num_utilized": 431172, 
+            "col_count": 67042, 
+            "idling": 0.003572, 
+            "utilization": 0.862344
+        }, 
+        "81": {
+            "var": 0.8608443834781283, 
+            "num_utilized": 428636, 
+            "col_count": 69537, 
+            "idling": 0.003654, 
+            "utilization": 0.857272
+        }, 
+        "82": {
+            "var": 1.3261451516954175, 
+            "num_utilized": 426616, 
+            "col_count": 71677, 
+            "idling": 0.003414, 
+            "utilization": 0.853232
+        }, 
+        "83": {
+            "var": 1.320075482653505, 
+            "num_utilized": 422880, 
+            "col_count": 75340, 
+            "idling": 0.00356, 
+            "utilization": 0.84576
+        }, 
+        "84": {
+            "var": 0.9438775510204079, 
+            "num_utilized": 421164, 
+            "col_count": 77094, 
+            "idling": 0.003484, 
+            "utilization": 0.842328
+        }, 
+        "85": {
+            "var": 0.7413148788927347, 
+            "num_utilized": 418434, 
+            "col_count": 79877, 
+            "idling": 0.003378, 
+            "utilization": 0.836868
+        }, 
+        "86": {
+            "var": 1.1828015143320707, 
+            "num_utilized": 415959, 
+            "col_count": 82360, 
+            "idling": 0.003362, 
+            "utilization": 0.831918
+        }, 
+        "87": {
+            "var": 1.2923768001056921, 
+            "num_utilized": 414077, 
+            "col_count": 84298, 
+            "idling": 0.00325, 
+            "utilization": 0.828154
+        }, 
+        "88": {
+            "var": 1.0339617768595046, 
+            "num_utilized": 410384, 
+            "col_count": 88034, 
+            "idling": 0.003164, 
+            "utilization": 0.820768
+        }, 
+        "89": {
+            "var": 1.420022724403483, 
+            "num_utilized": 410774, 
+            "col_count": 87686, 
+            "idling": 0.00308, 
+            "utilization": 0.821548
+        }, 
+        "90": {
+            "var": 1.0499999999999994, 
+            "num_utilized": 404197, 
+            "col_count": 94270, 
+            "idling": 0.003066, 
+            "utilization": 0.808394
+        }, 
+        "91": {
+            "var": 1.0733003260475784, 
+            "num_utilized": 403305, 
+            "col_count": 95167, 
+            "idling": 0.003056, 
+            "utilization": 0.80661
+        }, 
+        "92": {
+            "var": 1.3661389413988656, 
+            "num_utilized": 401365, 
+            "col_count": 97168, 
+            "idling": 0.002934, 
+            "utilization": 0.80273
+        }, 
+        "93": {
+            "var": 1.1483408486530249, 
+            "num_utilized": 396364, 
+            "col_count": 102186, 
+            "idling": 0.0029, 
+            "utilization": 0.792728
+        }, 
+        "94": {
+            "var": 1.0330466274332273, 
+            "num_utilized": 392864, 
+            "col_count": 105711, 
+            "idling": 0.00285, 
+            "utilization": 0.785728
+        }, 
+        "95": {
+            "var": 0.9810526315789483, 
+            "num_utilized": 388874, 
+            "col_count": 109661, 
+            "idling": 0.00293, 
+            "utilization": 0.777748
+        }, 
+        "96": {
+            "var": 1.2287326388888882, 
+            "num_utilized": 385785, 
+            "col_count": 112850, 
+            "idling": 0.00273, 
+            "utilization": 0.77157
+        }, 
+        "97": {
+            "var": 1.5128068870230627, 
+            "num_utilized": 384557, 
+            "col_count": 114108, 
+            "idling": 0.00267, 
+            "utilization": 0.769114
+        }, 
+        "98": {
+            "var": 1.3815077051228652, 
+            "num_utilized": 379503, 
+            "col_count": 119160, 
+            "idling": 0.002674, 
+            "utilization": 0.759006
+        }, 
+        "99": {
+            "var": 1.2264054688297097, 
+            "num_utilized": 376680, 
+            "col_count": 121998, 
+            "idling": 0.002644, 
+            "utilization": 0.75336
+        }, 
+        "100": {
+            "var": 1.0674999999999988, 
+            "num_utilized": 371246, 
+            "col_count": 127529, 
+            "idling": 0.00245, 
+            "utilization": 0.742492
+        }
+    }, 
+    "20": {
+        "5": {
+            "var": 0.15999999999999998, 
+            "num_utilized": 412146, 
+            "col_count": 1854, 
+            "idling": 0.172, 
+            "utilization": 0.824292
+        }, 
+        "6": {
+            "var": 1.5833333333333333, 
+            "num_utilized": 425458, 
+            "col_count": 2474, 
+            "idling": 0.144136, 
+            "utilization": 0.850916
+        }, 
+        "7": {
+            "var": 1.551020408163265, 
+            "num_utilized": 434093, 
+            "col_count": 3275, 
+            "idling": 0.125264, 
+            "utilization": 0.868186
+        }, 
+        "8": {
+            "var": 0.359375, 
+            "num_utilized": 441437, 
+            "col_count": 3900, 
+            "idling": 0.109326, 
+            "utilization": 0.882874
+        }, 
+        "9": {
+            "var": 1.506172839506173, 
+            "num_utilized": 445230, 
+            "col_count": 4526, 
+            "idling": 0.100488, 
+            "utilization": 0.89046
+        }, 
+        "10": {
+            "var": 2.29, 
+            "num_utilized": 449699, 
+            "col_count": 5187, 
+            "idling": 0.090228, 
+            "utilization": 0.899398
+        }, 
+        "11": {
+            "var": 2.512396694214875, 
+            "num_utilized": 452401, 
+            "col_count": 6003, 
+            "idling": 0.083192, 
+            "utilization": 0.904802
+        }, 
+        "12": {
+            "var": 1.2430555555555556, 
+            "num_utilized": 455171, 
+            "col_count": 6660, 
+            "idling": 0.076338, 
+            "utilization": 0.910342
+        }, 
+        "13": {
+            "var": 1.4556213017751483, 
+            "num_utilized": 457464, 
+            "col_count": 7652, 
+            "idling": 0.069768, 
+            "utilization": 0.914928
+        }, 
+        "14": {
+            "var": 0.6377551020408164, 
+            "num_utilized": 458538, 
+            "col_count": 8325, 
+            "idling": 0.066274, 
+            "utilization": 0.917076
+        }, 
+        "15": {
+            "var": 1.4488888888888887, 
+            "num_utilized": 460820, 
+            "col_count": 9027, 
+            "idling": 0.060306, 
+            "utilization": 0.92164
+        }, 
+        "16": {
+            "var": 0.71484375, 
+            "num_utilized": 460955, 
+            "col_count": 10011, 
+            "idling": 0.058068, 
+            "utilization": 0.92191
+        }, 
+        "17": {
+            "var": 0.9134948096885815, 
+            "num_utilized": 462906, 
+            "col_count": 10507, 
+            "idling": 0.053174, 
+            "utilization": 0.925812
+        }, 
+        "18": {
+            "var": 1.8302469135802468, 
+            "num_utilized": 462727, 
+            "col_count": 11593, 
+            "idling": 0.05136, 
+            "utilization": 0.925454
+        }, 
+        "19": {
+            "var": 0.7590027700831024, 
+            "num_utilized": 463099, 
+            "col_count": 12530, 
+            "idling": 0.048742, 
+            "utilization": 0.926198
+        }, 
+        "20": {
+            "var": 1.1900000000000004, 
+            "num_utilized": 463520, 
+            "col_count": 13580, 
+            "idling": 0.0458, 
+            "utilization": 0.92704
+        }, 
+        "21": {
+            "var": 1.664399092970521, 
+            "num_utilized": 463542, 
+            "col_count": 14256, 
+            "idling": 0.044404, 
+            "utilization": 0.927084
+        }, 
+        "22": {
+            "var": 1.2644628099173554, 
+            "num_utilized": 463639, 
+            "col_count": 15468, 
+            "idling": 0.041786, 
+            "utilization": 0.927278
+        }, 
+        "23": {
+            "var": 1.4177693761814745, 
+            "num_utilized": 462842, 
+            "col_count": 16669, 
+            "idling": 0.040978, 
+            "utilization": 0.925684
+        }, 
+        "24": {
+            "var": 0.8055555555555557, 
+            "num_utilized": 462947, 
+            "col_count": 17563, 
+            "idling": 0.03898, 
+            "utilization": 0.925894
+        }, 
+        "25": {
+            "var": 1.1199999999999997, 
+            "num_utilized": 462803, 
+            "col_count": 18843, 
+            "idling": 0.036708, 
+            "utilization": 0.925606
+        }, 
+        "26": {
+            "var": 1.0177514792899405, 
+            "num_utilized": 462089, 
+            "col_count": 19981, 
+            "idling": 0.03586, 
+            "utilization": 0.924178
+        }, 
+        "27": {
+            "var": 0.5788751714677643, 
+            "num_utilized": 462454, 
+            "col_count": 20743, 
+            "idling": 0.033606, 
+            "utilization": 0.924908
+        }, 
+        "28": {
+            "var": 1.177295918367347, 
+            "num_utilized": 461008, 
+            "col_count": 22224, 
+            "idling": 0.033536, 
+            "utilization": 0.922016
+        }, 
+        "29": {
+            "var": 1.1486325802615933, 
+            "num_utilized": 460876, 
+            "col_count": 23103, 
+            "idling": 0.032042, 
+            "utilization": 0.921752
+        }, 
+        "30": {
+            "var": 1.36, 
+            "num_utilized": 460147, 
+            "col_count": 24614, 
+            "idling": 0.030478, 
+            "utilization": 0.920294
+        }, 
+        "31": {
+            "var": 0.7554630593132152, 
+            "num_utilized": 458944, 
+            "col_count": 26224, 
+            "idling": 0.029664, 
+            "utilization": 0.917888
+        }, 
+        "32": {
+            "var": 1.21484375, 
+            "num_utilized": 458696, 
+            "col_count": 27303, 
+            "idling": 0.028002, 
+            "utilization": 0.917392
+        }, 
+        "33": {
+            "var": 1.0798898071625342, 
+            "num_utilized": 457395, 
+            "col_count": 28766, 
+            "idling": 0.027678, 
+            "utilization": 0.91479
+        }, 
+        "34": {
+            "var": 1.3122837370242224, 
+            "num_utilized": 456480, 
+            "col_count": 30246, 
+            "idling": 0.026548, 
+            "utilization": 0.91296
+        }, 
+        "35": {
+            "var": 1.4742857142857144, 
+            "num_utilized": 455516, 
+            "col_count": 31440, 
+            "idling": 0.026088, 
+            "utilization": 0.911032
+        }, 
+        "36": {
+            "var": 1.4097222222222223, 
+            "num_utilized": 454024, 
+            "col_count": 33152, 
+            "idling": 0.025648, 
+            "utilization": 0.908048
+        }, 
+        "37": {
+            "var": 1.618699780861943, 
+            "num_utilized": 452644, 
+            "col_count": 35052, 
+            "idling": 0.024608, 
+            "utilization": 0.905288
+        }, 
+        "38": {
+            "var": 1.4293628808864265, 
+            "num_utilized": 451580, 
+            "col_count": 36600, 
+            "idling": 0.02364, 
+            "utilization": 0.90316
+        }, 
+        "39": {
+            "var": 1.4871794871794872, 
+            "num_utilized": 451200, 
+            "col_count": 37351, 
+            "idling": 0.022898, 
+            "utilization": 0.9024
+        }, 
+        "40": {
+            "var": 0.984375, 
+            "num_utilized": 449032, 
+            "col_count": 39728, 
+            "idling": 0.02248, 
+            "utilization": 0.898064
+        }, 
+        "41": {
+            "var": 1.948839976204641, 
+            "num_utilized": 448358, 
+            "col_count": 40871, 
+            "idling": 0.021542, 
+            "utilization": 0.896716
+        }, 
+        "42": {
+            "var": 1.8004535147392293, 
+            "num_utilized": 445479, 
+            "col_count": 43829, 
+            "idling": 0.021384, 
+            "utilization": 0.890958
+        }, 
+        "43": {
+            "var": 1.270957274202272, 
+            "num_utilized": 444948, 
+            "col_count": 44714, 
+            "idling": 0.020676, 
+            "utilization": 0.889896
+        }, 
+        "44": {
+            "var": 1.2246900826446276, 
+            "num_utilized": 443936, 
+            "col_count": 46042, 
+            "idling": 0.020044, 
+            "utilization": 0.887872
+        }, 
+        "45": {
+            "var": 1.2572839506172835, 
+            "num_utilized": 441896, 
+            "col_count": 48491, 
+            "idling": 0.019226, 
+            "utilization": 0.883792
+        }, 
+        "46": {
+            "var": 1.4768431001890365, 
+            "num_utilized": 439199, 
+            "col_count": 51203, 
+            "idling": 0.019196, 
+            "utilization": 0.878398
+        }, 
+        "47": {
+            "var": 0.7894975101856047, 
+            "num_utilized": 437473, 
+            "col_count": 53131, 
+            "idling": 0.018792, 
+            "utilization": 0.874946
+        }, 
+        "48": {
+            "var": 1.2356770833333333, 
+            "num_utilized": 436754, 
+            "col_count": 54352, 
+            "idling": 0.017788, 
+            "utilization": 0.873508
+        }, 
+        "49": {
+            "var": 1.0770512286547278, 
+            "num_utilized": 433087, 
+            "col_count": 58026, 
+            "idling": 0.017774, 
+            "utilization": 0.866174
+        }, 
+        "50": {
+            "var": 1.7796000000000003, 
+            "num_utilized": 432644, 
+            "col_count": 58639, 
+            "idling": 0.017434, 
+            "utilization": 0.865288
+        }, 
+        "51": {
+            "var": 0.764321414840446, 
+            "num_utilized": 429726, 
+            "col_count": 61894, 
+            "idling": 0.01676, 
+            "utilization": 0.859452
+        }, 
+        "52": {
+            "var": 1.3402366863905326, 
+            "num_utilized": 427842, 
+            "col_count": 63915, 
+            "idling": 0.016486, 
+            "utilization": 0.855684
+        }, 
+        "53": {
+            "var": 0.8956924172303314, 
+            "num_utilized": 425805, 
+            "col_count": 66019, 
+            "idling": 0.016352, 
+            "utilization": 0.85161
+        }, 
+        "54": {
+            "var": 0.8792866941015087, 
+            "num_utilized": 423360, 
+            "col_count": 68734, 
+            "idling": 0.015812, 
+            "utilization": 0.84672
+        }, 
+        "55": {
+            "var": 1.261487603305785, 
+            "num_utilized": 420922, 
+            "col_count": 71338, 
+            "idling": 0.01548, 
+            "utilization": 0.841844
+        }, 
+        "56": {
+            "var": 1.4170918367346934, 
+            "num_utilized": 419118, 
+            "col_count": 73336, 
+            "idling": 0.015092, 
+            "utilization": 0.838236
+        }, 
+        "57": {
+            "var": 1.6164973838104035, 
+            "num_utilized": 416207, 
+            "col_count": 76410, 
+            "idling": 0.014766, 
+            "utilization": 0.832414
+        }, 
+        "58": {
+            "var": 0.9417360285374564, 
+            "num_utilized": 413267, 
+            "col_count": 79549, 
+            "idling": 0.014368, 
+            "utilization": 0.826534
+        }, 
+        "59": {
+            "var": 1.5409365124964094, 
+            "num_utilized": 411958, 
+            "col_count": 81097, 
+            "idling": 0.01389, 
+            "utilization": 0.823916
+        }, 
+        "60": {
+            "var": 1.398888888888887, 
+            "num_utilized": 408440, 
+            "col_count": 84712, 
+            "idling": 0.013696, 
+            "utilization": 0.81688
+        }, 
+        "61": {
+            "var": 0.8368718086535881, 
+            "num_utilized": 405631, 
+            "col_count": 87721, 
+            "idling": 0.013296, 
+            "utilization": 0.811262
+        }, 
+        "62": {
+            "var": 1.235431841831426, 
+            "num_utilized": 402444, 
+            "col_count": 91033, 
+            "idling": 0.013046, 
+            "utilization": 0.804888
+        }, 
+        "63": {
+            "var": 1.2869740488788104, 
+            "num_utilized": 400384, 
+            "col_count": 93432, 
+            "idling": 0.012368, 
+            "utilization": 0.800768
+        }, 
+        "64": {
+            "var": 1.179443359375, 
+            "num_utilized": 397313, 
+            "col_count": 96423, 
+            "idling": 0.012528, 
+            "utilization": 0.794626
+        }, 
+        "65": {
+            "var": 0.5571597633136092, 
+            "num_utilized": 393999, 
+            "col_count": 99900, 
+            "idling": 0.012202, 
+            "utilization": 0.787998
+        }, 
+        "66": {
+            "var": 1.0700183654729114, 
+            "num_utilized": 391586, 
+            "col_count": 102520, 
+            "idling": 0.011788, 
+            "utilization": 0.783172
+        }, 
+        "67": {
+            "var": 1.4484294943194485, 
+            "num_utilized": 388914, 
+            "col_count": 105386, 
+            "idling": 0.0114, 
+            "utilization": 0.777828
+        }, 
+        "68": {
+            "var": 1.1719290657439443, 
+            "num_utilized": 384675, 
+            "col_count": 109648, 
+            "idling": 0.011354, 
+            "utilization": 0.76935
+        }, 
+        "69": {
+            "var": 1.0338164251207727, 
+            "num_utilized": 380646, 
+            "col_count": 113819, 
+            "idling": 0.01107, 
+            "utilization": 0.761292
+        }, 
+        "70": {
+            "var": 1.0497959183673478, 
+            "num_utilized": 379341, 
+            "col_count": 115322, 
+            "idling": 0.010674, 
+            "utilization": 0.758682
+        }, 
+        "71": {
+            "var": 1.0478079746082134, 
+            "num_utilized": 374565, 
+            "col_count": 120041, 
+            "idling": 0.010788, 
+            "utilization": 0.74913
+        }, 
+        "72": {
+            "var": 1.175154320987654, 
+            "num_utilized": 371420, 
+            "col_count": 123436, 
+            "idling": 0.010288, 
+            "utilization": 0.74284
+        }, 
+        "73": {
+            "var": 1.4336648526928124, 
+            "num_utilized": 368225, 
+            "col_count": 126880, 
+            "idling": 0.00979, 
+            "utilization": 0.73645
+        }, 
+        "74": {
+            "var": 1.6486486486486487, 
+            "num_utilized": 363678, 
+            "col_count": 131368, 
+            "idling": 0.009908, 
+            "utilization": 0.727356
+        }, 
+        "75": {
+            "var": 1.0158222222222224, 
+            "num_utilized": 359898, 
+            "col_count": 135380, 
+            "idling": 0.009444, 
+            "utilization": 0.719796
+        }, 
+        "76": {
+            "var": 0.9951523545706376, 
+            "num_utilized": 355122, 
+            "col_count": 140111, 
+            "idling": 0.009534, 
+            "utilization": 0.710244
+        }, 
+        "77": {
+            "var": 1.0666216899983127, 
+            "num_utilized": 351498, 
+            "col_count": 143881, 
+            "idling": 0.009242, 
+            "utilization": 0.702996
+        }, 
+        "78": {
+            "var": 1.547666009204469, 
+            "num_utilized": 349083, 
+            "col_count": 146510, 
+            "idling": 0.008814, 
+            "utilization": 0.698166
+        }, 
+        "79": {
+            "var": 1.02451530203493, 
+            "num_utilized": 345076, 
+            "col_count": 150515, 
+            "idling": 0.008818, 
+            "utilization": 0.690152
+        }, 
+        "80": {
+            "var": 1.4435937499999993, 
+            "num_utilized": 340326, 
+            "col_count": 155390, 
+            "idling": 0.008568, 
+            "utilization": 0.680652
+        }, 
+        "81": {
+            "var": 1.500990702636793, 
+            "num_utilized": 336561, 
+            "col_count": 159243, 
+            "idling": 0.008392, 
+            "utilization": 0.673122
+        }, 
+        "82": {
+            "var": 1.3201963117192146, 
+            "num_utilized": 332105, 
+            "col_count": 163767, 
+            "idling": 0.008256, 
+            "utilization": 0.66421
+        }, 
+        "83": {
+            "var": 0.7092466250544347, 
+            "num_utilized": 329259, 
+            "col_count": 166790, 
+            "idling": 0.007902, 
+            "utilization": 0.658518
+        }, 
+        "84": {
+            "var": 1.3042800453514738, 
+            "num_utilized": 323946, 
+            "col_count": 172260, 
+            "idling": 0.007588, 
+            "utilization": 0.647892
+        }, 
+        "85": {
+            "var": 0.9987543252595156, 
+            "num_utilized": 318969, 
+            "col_count": 177268, 
+            "idling": 0.007526, 
+            "utilization": 0.637938
+        }, 
+        "86": {
+            "var": 1.6246619794483512, 
+            "num_utilized": 314853, 
+            "col_count": 181554, 
+            "idling": 0.007186, 
+            "utilization": 0.629706
+        }, 
+        "87": {
+            "var": 1.4762848460827038, 
+            "num_utilized": 309669, 
+            "col_count": 186742, 
+            "idling": 0.007178, 
+            "utilization": 0.619338
+        }, 
+        "88": {
+            "var": 1.2763429752066118, 
+            "num_utilized": 305046, 
+            "col_count": 191434, 
+            "idling": 0.00704, 
+            "utilization": 0.610092
+        }, 
+        "89": {
+            "var": 1.4167403105668477, 
+            "num_utilized": 301500, 
+            "col_count": 195162, 
+            "idling": 0.006676, 
+            "utilization": 0.603
+        }, 
+        "90": {
+            "var": 1.3235802469135811, 
+            "num_utilized": 296845, 
+            "col_count": 199802, 
+            "idling": 0.006706, 
+            "utilization": 0.59369
+        }, 
+        "91": {
+            "var": 0.9580968482067377, 
+            "num_utilized": 291772, 
+            "col_count": 204901, 
+            "idling": 0.006654, 
+            "utilization": 0.583544
+        }, 
+        "92": {
+            "var": 1.031663516068053, 
+            "num_utilized": 287608, 
+            "col_count": 209158, 
+            "idling": 0.006468, 
+            "utilization": 0.575216
+        }, 
+        "93": {
+            "var": 0.6701352757544231, 
+            "num_utilized": 283841, 
+            "col_count": 213162, 
+            "idling": 0.005994, 
+            "utilization": 0.567682
+        }, 
+        "94": {
+            "var": 1.0697148030783143, 
+            "num_utilized": 278519, 
+            "col_count": 218609, 
+            "idling": 0.005744, 
+            "utilization": 0.557038
+        }, 
+        "95": {
+            "var": 1.192908587257617, 
+            "num_utilized": 273919, 
+            "col_count": 223229, 
+            "idling": 0.005704, 
+            "utilization": 0.547838
+        }, 
+        "96": {
+            "var": 1.3940972222222232, 
+            "num_utilized": 268928, 
+            "col_count": 228216, 
+            "idling": 0.005712, 
+            "utilization": 0.537856
+        }, 
+        "97": {
+            "var": 1.190562227654374, 
+            "num_utilized": 264138, 
+            "col_count": 233179, 
+            "idling": 0.005366, 
+            "utilization": 0.528276
+        }, 
+        "98": {
+            "var": 1.258329862557267, 
+            "num_utilized": 258783, 
+            "col_count": 238551, 
+            "idling": 0.005332, 
+            "utilization": 0.517566
+        }, 
+        "99": {
+            "var": 1.047036016732986, 
+            "num_utilized": 252840, 
+            "col_count": 244598, 
+            "idling": 0.005124, 
+            "utilization": 0.50568
+        }, 
+        "100": {
+            "var": 1.2624, 
+            "num_utilized": 249468, 
+            "col_count": 248053, 
+            "idling": 0.004958, 
+            "utilization": 0.498936
+        }
+    }, 
+    "80": {
+        "5": {
+            "var": 2.56, 
+            "num_utilized": 475852, 
+            "col_count": 590, 
+            "idling": 0.047116, 
+            "utilization": 0.951704
+        }, 
+        "6": {
+            "var": 2.0, 
+            "num_utilized": 479227, 
+            "col_count": 783, 
+            "idling": 0.03998, 
+            "utilization": 0.958454
+        }, 
+        "7": {
+            "var": 0.5306122448979592, 
+            "num_utilized": 480721, 
+            "col_count": 971, 
+            "idling": 0.036616, 
+            "utilization": 0.961442
+        }, 
+        "8": {
+            "var": 1.859375, 
+            "num_utilized": 482133, 
+            "col_count": 1051, 
+            "idling": 0.033632, 
+            "utilization": 0.964266
+        }, 
+        "9": {
+            "var": 0.8888888888888891, 
+            "num_utilized": 484377, 
+            "col_count": 1220, 
+            "idling": 0.028806, 
+            "utilization": 0.968754
+        }, 
+        "10": {
+            "var": 1.8, 
+            "num_utilized": 485812, 
+            "col_count": 1428, 
+            "idling": 0.02552, 
+            "utilization": 0.971624
+        }, 
+        "11": {
+            "var": 0.9917355371900826, 
+            "num_utilized": 486794, 
+            "col_count": 1684, 
+            "idling": 0.023044, 
+            "utilization": 0.973588
+        }, 
+        "12": {
+            "var": 1.222222222222222, 
+            "num_utilized": 487863, 
+            "col_count": 1860, 
+            "idling": 0.020554, 
+            "utilization": 0.975726
+        }, 
+        "13": {
+            "var": 1.4792899408284017, 
+            "num_utilized": 488063, 
+            "col_count": 2082, 
+            "idling": 0.01971, 
+            "utilization": 0.976126
+        }, 
+        "14": {
+            "var": 0.836734693877551, 
+            "num_utilized": 488683, 
+            "col_count": 2328, 
+            "idling": 0.017978, 
+            "utilization": 0.977366
+        }, 
+        "15": {
+            "var": 2.248888888888889, 
+            "num_utilized": 488764, 
+            "col_count": 2536, 
+            "idling": 0.0174, 
+            "utilization": 0.977528
+        }, 
+        "16": {
+            "var": 0.8125, 
+            "num_utilized": 489191, 
+            "col_count": 2758, 
+            "idling": 0.016102, 
+            "utilization": 0.978382
+        }, 
+        "17": {
+            "var": 2.207612456747405, 
+            "num_utilized": 489365, 
+            "col_count": 2942, 
+            "idling": 0.015386, 
+            "utilization": 0.97873
+        }, 
+        "18": {
+            "var": 1.3209876543209877, 
+            "num_utilized": 489664, 
+            "col_count": 3245, 
+            "idling": 0.014182, 
+            "utilization": 0.979328
+        }, 
+        "19": {
+            "var": 1.218836565096953, 
+            "num_utilized": 489897, 
+            "col_count": 3385, 
+            "idling": 0.013436, 
+            "utilization": 0.979794
+        }, 
+        "20": {
+            "var": 0.5475000000000002, 
+            "num_utilized": 489984, 
+            "col_count": 3707, 
+            "idling": 0.012618, 
+            "utilization": 0.979968
+        }, 
+        "21": {
+            "var": 1.8956916099773242, 
+            "num_utilized": 489645, 
+            "col_count": 4076, 
+            "idling": 0.012558, 
+            "utilization": 0.97929
+        }, 
+        "22": {
+            "var": 2.56198347107438, 
+            "num_utilized": 490073, 
+            "col_count": 4195, 
+            "idling": 0.011464, 
+            "utilization": 0.980146
+        }, 
+        "23": {
+            "var": 0.48771266540642716, 
+            "num_utilized": 490022, 
+            "col_count": 4575, 
+            "idling": 0.010806, 
+            "utilization": 0.980044
+        }, 
+        "24": {
+            "var": 0.8333333333333334, 
+            "num_utilized": 490086, 
+            "col_count": 4754, 
+            "idling": 0.01032, 
+            "utilization": 0.980172
+        }, 
+        "25": {
+            "var": 1.44, 
+            "num_utilized": 489912, 
+            "col_count": 5017, 
+            "idling": 0.010142, 
+            "utilization": 0.979824
+        }, 
+        "26": {
+            "var": 1.3017751479289943, 
+            "num_utilized": 489779, 
+            "col_count": 5439, 
+            "idling": 0.009564, 
+            "utilization": 0.979558
+        }, 
+        "27": {
+            "var": 1.0068587105624143, 
+            "num_utilized": 489473, 
+            "col_count": 5828, 
+            "idling": 0.009398, 
+            "utilization": 0.978946
+        }, 
+        "28": {
+            "var": 0.5956632653061223, 
+            "num_utilized": 489108, 
+            "col_count": 6261, 
+            "idling": 0.009262, 
+            "utilization": 0.978216
+        }, 
+        "29": {
+            "var": 0.8561236623067778, 
+            "num_utilized": 489371, 
+            "col_count": 6347, 
+            "idling": 0.008564, 
+            "utilization": 0.978742
+        }, 
+        "30": {
+            "var": 0.5155555555555557, 
+            "num_utilized": 489033, 
+            "col_count": 6754, 
+            "idling": 0.008426, 
+            "utilization": 0.978066
+        }, 
+        "31": {
+            "var": 1.350676378772112, 
+            "num_utilized": 488882, 
+            "col_count": 7081, 
+            "idling": 0.008074, 
+            "utilization": 0.977764
+        }, 
+        "32": {
+            "var": 1.24609375, 
+            "num_utilized": 488398, 
+            "col_count": 7573, 
+            "idling": 0.008058, 
+            "utilization": 0.976796
+        }, 
+        "33": {
+            "var": 1.5224977043158854, 
+            "num_utilized": 488417, 
+            "col_count": 7818, 
+            "idling": 0.00753, 
+            "utilization": 0.976834
+        }, 
+        "34": {
+            "var": 0.737024221453287, 
+            "num_utilized": 487900, 
+            "col_count": 8409, 
+            "idling": 0.007382, 
+            "utilization": 0.9758
+        }, 
+        "35": {
+            "var": 0.9110204081632657, 
+            "num_utilized": 487423, 
+            "col_count": 8898, 
+            "idling": 0.007358, 
+            "utilization": 0.974846
+        }, 
+        "36": {
+            "var": 0.7376543209876542, 
+            "num_utilized": 487053, 
+            "col_count": 9377, 
+            "idling": 0.00714, 
+            "utilization": 0.974106
+        }, 
+        "37": {
+            "var": 0.7348429510591675, 
+            "num_utilized": 486519, 
+            "col_count": 9835, 
+            "idling": 0.007292, 
+            "utilization": 0.973038
+        }, 
+        "38": {
+            "var": 1.047783933518006, 
+            "num_utilized": 486576, 
+            "col_count": 10111, 
+            "idling": 0.006626, 
+            "utilization": 0.973152
+        }, 
+        "39": {
+            "var": 1.5239973701512157, 
+            "num_utilized": 486352, 
+            "col_count": 10560, 
+            "idling": 0.006176, 
+            "utilization": 0.972704
+        }, 
+        "40": {
+            "var": 1.0243749999999998, 
+            "num_utilized": 485229, 
+            "col_count": 11482, 
+            "idling": 0.006578, 
+            "utilization": 0.970458
+        }, 
+        "41": {
+            "var": 1.1124330755502672, 
+            "num_utilized": 485591, 
+            "col_count": 11381, 
+            "idling": 0.006056, 
+            "utilization": 0.971182
+        }, 
+        "42": {
+            "var": 0.669501133786848, 
+            "num_utilized": 484547, 
+            "col_count": 12388, 
+            "idling": 0.00613, 
+            "utilization": 0.969094
+        }, 
+        "43": {
+            "var": 1.6744186046511629, 
+            "num_utilized": 484341, 
+            "col_count": 12768, 
+            "idling": 0.005782, 
+            "utilization": 0.968682
+        }, 
+        "44": {
+            "var": 1.1487603305785121, 
+            "num_utilized": 483827, 
+            "col_count": 13275, 
+            "idling": 0.005796, 
+            "utilization": 0.967654
+        }, 
+        "45": {
+            "var": 1.3511111111111116, 
+            "num_utilized": 483401, 
+            "col_count": 13872, 
+            "idling": 0.005454, 
+            "utilization": 0.966802
+        }, 
+        "46": {
+            "var": 1.432892249527411, 
+            "num_utilized": 482801, 
+            "col_count": 14445, 
+            "idling": 0.005508, 
+            "utilization": 0.965602
+        }, 
+        "47": {
+            "var": 1.6152105024898151, 
+            "num_utilized": 482225, 
+            "col_count": 15136, 
+            "idling": 0.005278, 
+            "utilization": 0.96445
+        }, 
+        "48": {
+            "var": 1.0481770833333333, 
+            "num_utilized": 482027, 
+            "col_count": 15510, 
+            "idling": 0.004926, 
+            "utilization": 0.964054
+        }, 
+        "49": {
+            "var": 1.6193252811328602, 
+            "num_utilized": 481300, 
+            "col_count": 16155, 
+            "idling": 0.00509, 
+            "utilization": 0.9626
+        }, 
+        "50": {
+            "var": 1.3795999999999995, 
+            "num_utilized": 480175, 
+            "col_count": 17317, 
+            "idling": 0.005016, 
+            "utilization": 0.96035
+        }, 
+        "51": {
+            "var": 0.9688581314878886, 
+            "num_utilized": 479914, 
+            "col_count": 17619, 
+            "idling": 0.004934, 
+            "utilization": 0.959828
+        }, 
+        "52": {
+            "var": 1.6301775147929, 
+            "num_utilized": 479573, 
+            "col_count": 18161, 
+            "idling": 0.004532, 
+            "utilization": 0.959146
+        }, 
+        "53": {
+            "var": 1.788536845852617, 
+            "num_utilized": 478390, 
+            "col_count": 19357, 
+            "idling": 0.004506, 
+            "utilization": 0.95678
+        }, 
+        "54": {
+            "var": 0.8587105624142652, 
+            "num_utilized": 477420, 
+            "col_count": 20219, 
+            "idling": 0.004722, 
+            "utilization": 0.95484
+        }, 
+        "55": {
+            "var": 0.9765289256198346, 
+            "num_utilized": 475953, 
+            "col_count": 21663, 
+            "idling": 0.004768, 
+            "utilization": 0.951906
+        }, 
+        "56": {
+            "var": 0.8915816326530611, 
+            "num_utilized": 476388, 
+            "col_count": 21396, 
+            "idling": 0.004432, 
+            "utilization": 0.952776
+        }, 
+        "57": {
+            "var": 0.8808864265927978, 
+            "num_utilized": 475053, 
+            "col_count": 22704, 
+            "idling": 0.004486, 
+            "utilization": 0.950106
+        }, 
+        "58": {
+            "var": 0.8466111771700363, 
+            "num_utilized": 474639, 
+            "col_count": 23289, 
+            "idling": 0.004144, 
+            "utilization": 0.949278
+        }, 
+        "59": {
+            "var": 1.2496409077851187, 
+            "num_utilized": 473697, 
+            "col_count": 24251, 
+            "idling": 0.004104, 
+            "utilization": 0.947394
+        }, 
+        "60": {
+            "var": 0.9697222222222218, 
+            "num_utilized": 472741, 
+            "col_count": 25163, 
+            "idling": 0.004192, 
+            "utilization": 0.945482
+        }, 
+        "61": {
+            "var": 1.184090298306907, 
+            "num_utilized": 471790, 
+            "col_count": 26217, 
+            "idling": 0.003986, 
+            "utilization": 0.94358
+        }, 
+        "62": {
+            "var": 1.0626951092611874, 
+            "num_utilized": 470943, 
+            "col_count": 27130, 
+            "idling": 0.003854, 
+            "utilization": 0.941886
+        }, 
+        "63": {
+            "var": 1.0224237843285475, 
+            "num_utilized": 469467, 
+            "col_count": 28526, 
+            "idling": 0.004014, 
+            "utilization": 0.938934
+        }, 
+        "64": {
+            "var": 1.228271484375, 
+            "num_utilized": 467903, 
+            "col_count": 30151, 
+            "idling": 0.003892, 
+            "utilization": 0.935806
+        }, 
+        "65": {
+            "var": 1.099171597633137, 
+            "num_utilized": 467140, 
+            "col_count": 30980, 
+            "idling": 0.00376, 
+            "utilization": 0.93428
+        }, 
+        "66": {
+            "var": 1.4997704315886125, 
+            "num_utilized": 466388, 
+            "col_count": 31827, 
+            "idling": 0.00357, 
+            "utilization": 0.932776
+        }, 
+        "67": {
+            "var": 1.5598128759189134, 
+            "num_utilized": 464982, 
+            "col_count": 33260, 
+            "idling": 0.003516, 
+            "utilization": 0.929964
+        }, 
+        "68": {
+            "var": 1.4705882352941178, 
+            "num_utilized": 463644, 
+            "col_count": 34667, 
+            "idling": 0.003378, 
+            "utilization": 0.927288
+        }, 
+        "69": {
+            "var": 1.1762234824616673, 
+            "num_utilized": 461554, 
+            "col_count": 36646, 
+            "idling": 0.0036, 
+            "utilization": 0.923108
+        }, 
+        "70": {
+            "var": 1.1053061224489797, 
+            "num_utilized": 460971, 
+            "col_count": 37270, 
+            "idling": 0.003518, 
+            "utilization": 0.921942
+        }, 
+        "71": {
+            "var": 0.8950605038682798, 
+            "num_utilized": 459492, 
+            "col_count": 38716, 
+            "idling": 0.003584, 
+            "utilization": 0.918984
+        }, 
+        "72": {
+            "var": 1.3881172839506173, 
+            "num_utilized": 458666, 
+            "col_count": 39700, 
+            "idling": 0.003268, 
+            "utilization": 0.917332
+        }, 
+        "73": {
+            "var": 1.4779508350534796, 
+            "num_utilized": 456921, 
+            "col_count": 41444, 
+            "idling": 0.00327, 
+            "utilization": 0.913842
+        }, 
+        "74": {
+            "var": 0.8721694667640615, 
+            "num_utilized": 456371, 
+            "col_count": 42049, 
+            "idling": 0.00316, 
+            "utilization": 0.912742
+        }, 
+        "75": {
+            "var": 1.6344888888888887, 
+            "num_utilized": 454784, 
+            "col_count": 43645, 
+            "idling": 0.003142, 
+            "utilization": 0.909568
+        }, 
+        "76": {
+            "var": 1.044840720221606, 
+            "num_utilized": 453365, 
+            "col_count": 45209, 
+            "idling": 0.002852, 
+            "utilization": 0.90673
+        }, 
+        "77": {
+            "var": 1.151627593186034, 
+            "num_utilized": 450723, 
+            "col_count": 47793, 
+            "idling": 0.002968, 
+            "utilization": 0.901446
+        }, 
+        "78": {
+            "var": 1.4215976331360949, 
+            "num_utilized": 449226, 
+            "col_count": 49242, 
+            "idling": 0.003064, 
+            "utilization": 0.898452
+        }, 
+        "79": {
+            "var": 0.9844576189713203, 
+            "num_utilized": 448853, 
+            "col_count": 49730, 
+            "idling": 0.002834, 
+            "utilization": 0.897706
+        }, 
+        "80": {
+            "var": 1.4998437499999995, 
+            "num_utilized": 446079, 
+            "col_count": 52518, 
+            "idling": 0.002806, 
+            "utilization": 0.892158
+        }, 
+        "81": {
+            "var": 1.301630848955951, 
+            "num_utilized": 444366, 
+            "col_count": 54276, 
+            "idling": 0.002716, 
+            "utilization": 0.888732
+        }, 
+        "82": {
+            "var": 1.5058001189767993, 
+            "num_utilized": 442176, 
+            "col_count": 56406, 
+            "idling": 0.002836, 
+            "utilization": 0.884352
+        }, 
+        "83": {
+            "var": 1.4211061111917556, 
+            "num_utilized": 439050, 
+            "col_count": 59531, 
+            "idling": 0.002838, 
+            "utilization": 0.8781
+        }, 
+        "84": {
+            "var": 0.9875283446712014, 
+            "num_utilized": 438210, 
+            "col_count": 60333, 
+            "idling": 0.002914, 
+            "utilization": 0.87642
+        }, 
+        "85": {
+            "var": 0.9134948096885808, 
+            "num_utilized": 436671, 
+            "col_count": 62057, 
+            "idling": 0.002544, 
+            "utilization": 0.873342
+        }, 
+        "86": {
+            "var": 1.277582477014603, 
+            "num_utilized": 434292, 
+            "col_count": 64405, 
+            "idling": 0.002606, 
+            "utilization": 0.868584
+        }, 
+        "87": {
+            "var": 0.9681595983617395, 
+            "num_utilized": 431644, 
+            "col_count": 67025, 
+            "idling": 0.002662, 
+            "utilization": 0.863288
+        }, 
+        "88": {
+            "var": 1.4626807851239674, 
+            "num_utilized": 428631, 
+            "col_count": 70054, 
+            "idling": 0.00263, 
+            "utilization": 0.857262
+        }, 
+        "89": {
+            "var": 1.0958212346925902, 
+            "num_utilized": 428004, 
+            "col_count": 70789, 
+            "idling": 0.002414, 
+            "utilization": 0.856008
+        }, 
+        "90": {
+            "var": 1.3535802469135794, 
+            "num_utilized": 425794, 
+            "col_count": 72918, 
+            "idling": 0.002576, 
+            "utilization": 0.851588
+        }, 
+        "91": {
+            "var": 0.8566598236927907, 
+            "num_utilized": 423371, 
+            "col_count": 75457, 
+            "idling": 0.002344, 
+            "utilization": 0.846742
+        }, 
+        "92": {
+            "var": 1.2655954631379944, 
+            "num_utilized": 419367, 
+            "col_count": 79502, 
+            "idling": 0.002262, 
+            "utilization": 0.838734
+        }, 
+        "93": {
+            "var": 1.1365475777546536, 
+            "num_utilized": 416648, 
+            "col_count": 82162, 
+            "idling": 0.00238, 
+            "utilization": 0.833296
+        }, 
+        "94": {
+            "var": 1.157990040742418, 
+            "num_utilized": 415561, 
+            "col_count": 83265, 
+            "idling": 0.002348, 
+            "utilization": 0.831122
+        }, 
+        "95": {
+            "var": 1.4286980609418272, 
+            "num_utilized": 412240, 
+            "col_count": 86608, 
+            "idling": 0.002304, 
+            "utilization": 0.82448
+        }, 
+        "96": {
+            "var": 1.2342664930555538, 
+            "num_utilized": 409454, 
+            "col_count": 89445, 
+            "idling": 0.002202, 
+            "utilization": 0.818908
+        }, 
+        "97": {
+            "var": 1.5395897544903818, 
+            "num_utilized": 405780, 
+            "col_count": 93102, 
+            "idling": 0.002236, 
+            "utilization": 0.81156
+        }, 
+        "98": {
+            "var": 1.2557267805081214, 
+            "num_utilized": 404109, 
+            "col_count": 94845, 
+            "idling": 0.002092, 
+            "utilization": 0.808218
+        }, 
+        "99": {
+            "var": 1.164575043362922, 
+            "num_utilized": 399518, 
+            "col_count": 99460, 
+            "idling": 0.002044, 
+            "utilization": 0.799036
+        }, 
+        "100": {
+            "var": 1.510000000000001, 
+            "num_utilized": 395924, 
+            "col_count": 103033, 
+            "idling": 0.002086, 
+            "utilization": 0.791848
+        }
+    }, 
+    "100": {
+        "5": {
+            "var": 0.24, 
+            "num_utilized": 479477, 
+            "col_count": 495, 
+            "idling": 0.040056, 
+            "utilization": 0.958954
+        }, 
+        "6": {
+            "var": 0.5833333333333334, 
+            "num_utilized": 482321, 
+            "col_count": 609, 
+            "idling": 0.03414, 
+            "utilization": 0.964642
+        }, 
+        "7": {
+            "var": 0.6938775510204082, 
+            "num_utilized": 485148, 
+            "col_count": 777, 
+            "idling": 0.02815, 
+            "utilization": 0.970296
+        }, 
+        "8": {
+            "var": 1.109375, 
+            "num_utilized": 486912, 
+            "col_count": 892, 
+            "idling": 0.024392, 
+            "utilization": 0.973824
+        }, 
+        "9": {
+            "var": 0.9876543209876544, 
+            "num_utilized": 488085, 
+            "col_count": 1040, 
+            "idling": 0.02175, 
+            "utilization": 0.97617
+        }, 
+        "10": {
+            "var": 0.15999999999999998, 
+            "num_utilized": 488131, 
+            "col_count": 1265, 
+            "idling": 0.021208, 
+            "utilization": 0.976262
+        }, 
+        "11": {
+            "var": 0.5950413223140495, 
+            "num_utilized": 489575, 
+            "col_count": 1325, 
+            "idling": 0.0182, 
+            "utilization": 0.97915
+        }, 
+        "12": {
+            "var": 1.5555555555555554, 
+            "num_utilized": 490093, 
+            "col_count": 1474, 
+            "idling": 0.016866, 
+            "utilization": 0.980186
+        }, 
+        "13": {
+            "var": 0.3905325443786983, 
+            "num_utilized": 490318, 
+            "col_count": 1657, 
+            "idling": 0.01605, 
+            "utilization": 0.980636
+        }, 
+        "14": {
+            "var": 0.5510204081632651, 
+            "num_utilized": 490799, 
+            "col_count": 1815, 
+            "idling": 0.014772, 
+            "utilization": 0.981598
+        }, 
+        "15": {
+            "var": 1.2622222222222226, 
+            "num_utilized": 491178, 
+            "col_count": 2090, 
+            "idling": 0.013464, 
+            "utilization": 0.982356
+        }, 
+        "16": {
+            "var": 1.109375, 
+            "num_utilized": 491553, 
+            "col_count": 2145, 
+            "idling": 0.012604, 
+            "utilization": 0.983106
+        }, 
+        "17": {
+            "var": 0.8373702422145328, 
+            "num_utilized": 491643, 
+            "col_count": 2324, 
+            "idling": 0.012066, 
+            "utilization": 0.983286
+        }, 
+        "18": {
+            "var": 1.6450617283950615, 
+            "num_utilized": 491995, 
+            "col_count": 2600, 
+            "idling": 0.01081, 
+            "utilization": 0.98399
+        }, 
+        "19": {
+            "var": 1.03601108033241, 
+            "num_utilized": 491621, 
+            "col_count": 2737, 
+            "idling": 0.011284, 
+            "utilization": 0.983242
+        }, 
+        "20": {
+            "var": 0.8, 
+            "num_utilized": 491724, 
+            "col_count": 3088, 
+            "idling": 0.010376, 
+            "utilization": 0.983448
+        }, 
+        "21": {
+            "var": 1.106575963718821, 
+            "num_utilized": 492009, 
+            "col_count": 3107, 
+            "idling": 0.009768, 
+            "utilization": 0.984018
+        }, 
+        "22": {
+            "var": 1.1735537190082648, 
+            "num_utilized": 491870, 
+            "col_count": 3471, 
+            "idling": 0.009318, 
+            "utilization": 0.98374
+        }, 
+        "23": {
+            "var": 1.0623818525519848, 
+            "num_utilized": 491950, 
+            "col_count": 3468, 
+            "idling": 0.009164, 
+            "utilization": 0.9839
+        }, 
+        "24": {
+            "var": 1.1666666666666667, 
+            "num_utilized": 492009, 
+            "col_count": 3916, 
+            "idling": 0.00815, 
+            "utilization": 0.984018
+        }, 
+        "25": {
+            "var": 1.3824, 
+            "num_utilized": 491455, 
+            "col_count": 4353, 
+            "idling": 0.008384, 
+            "utilization": 0.98291
+        }, 
+        "26": {
+            "var": 0.38017751479289924, 
+            "num_utilized": 491670, 
+            "col_count": 4341, 
+            "idling": 0.007978, 
+            "utilization": 0.98334
+        }, 
+        "27": {
+            "var": 0.9903978052126201, 
+            "num_utilized": 491290, 
+            "col_count": 4782, 
+            "idling": 0.007856, 
+            "utilization": 0.98258
+        }, 
+        "28": {
+            "var": 0.7755102040816322, 
+            "num_utilized": 491334, 
+            "col_count": 5001, 
+            "idling": 0.00733, 
+            "utilization": 0.982668
+        }, 
+        "29": {
+            "var": 0.9250891795481574, 
+            "num_utilized": 491473, 
+            "col_count": 5022, 
+            "idling": 0.00701, 
+            "utilization": 0.982946
+        }, 
+        "30": {
+            "var": 0.7822222222222222, 
+            "num_utilized": 491001, 
+            "col_count": 5553, 
+            "idling": 0.006892, 
+            "utilization": 0.982002
+        }, 
+        "31": {
+            "var": 1.186264308012487, 
+            "num_utilized": 490992, 
+            "col_count": 5769, 
+            "idling": 0.006478, 
+            "utilization": 0.981984
+        }, 
+        "32": {
+            "var": 1.3271484375, 
+            "num_utilized": 491106, 
+            "col_count": 5834, 
+            "idling": 0.00612, 
+            "utilization": 0.982212
+        }, 
+        "33": {
+            "var": 0.9660238751147848, 
+            "num_utilized": 490457, 
+            "col_count": 6456, 
+            "idling": 0.006174, 
+            "utilization": 0.980914
+        }, 
+        "34": {
+            "var": 1.845155709342561, 
+            "num_utilized": 490048, 
+            "col_count": 6970, 
+            "idling": 0.005964, 
+            "utilization": 0.980096
+        }, 
+        "35": {
+            "var": 0.9110204081632655, 
+            "num_utilized": 490103, 
+            "col_count": 6973, 
+            "idling": 0.005848, 
+            "utilization": 0.980206
+        }, 
+        "36": {
+            "var": 1.5208333333333335, 
+            "num_utilized": 489698, 
+            "col_count": 7465, 
+            "idling": 0.005674, 
+            "utilization": 0.979396
+        }, 
+        "37": {
+            "var": 0.9919649379108837, 
+            "num_utilized": 489824, 
+            "col_count": 7530, 
+            "idling": 0.005292, 
+            "utilization": 0.979648
+        }, 
+        "38": {
+            "var": 1.4937673130193907, 
+            "num_utilized": 489284, 
+            "col_count": 8065, 
+            "idling": 0.005302, 
+            "utilization": 0.978568
+        }, 
+        "39": {
+            "var": 1.886916502301117, 
+            "num_utilized": 488553, 
+            "col_count": 8786, 
+            "idling": 0.005322, 
+            "utilization": 0.977106
+        }, 
+        "40": {
+            "var": 0.8474999999999999, 
+            "num_utilized": 488845, 
+            "col_count": 8692, 
+            "idling": 0.004926, 
+            "utilization": 0.97769
+        }, 
+        "41": {
+            "var": 0.5913146936347413, 
+            "num_utilized": 488373, 
+            "col_count": 9103, 
+            "idling": 0.005048, 
+            "utilization": 0.976746
+        }, 
+        "42": {
+            "var": 1.1683673469387752, 
+            "num_utilized": 487611, 
+            "col_count": 9924, 
+            "idling": 0.00493, 
+            "utilization": 0.975222
+        }, 
+        "43": {
+            "var": 1.730665224445646, 
+            "num_utilized": 487267, 
+            "col_count": 10362, 
+            "idling": 0.004742, 
+            "utilization": 0.974534
+        }, 
+        "44": {
+            "var": 1.3450413223140496, 
+            "num_utilized": 486902, 
+            "col_count": 10776, 
+            "idling": 0.004644, 
+            "utilization": 0.973804
+        }, 
+        "45": {
+            "var": 1.6869135802469142, 
+            "num_utilized": 486470, 
+            "col_count": 11280, 
+            "idling": 0.0045, 
+            "utilization": 0.97294
+        }, 
+        "46": {
+            "var": 1.27835538752363, 
+            "num_utilized": 486592, 
+            "col_count": 11283, 
+            "idling": 0.00425, 
+            "utilization": 0.973184
+        }, 
+        "47": {
+            "var": 0.8365776369397919, 
+            "num_utilized": 485631, 
+            "col_count": 12172, 
+            "idling": 0.004394, 
+            "utilization": 0.971262
+        }, 
+        "48": {
+            "var": 1.30859375, 
+            "num_utilized": 484799, 
+            "col_count": 13105, 
+            "idling": 0.004192, 
+            "utilization": 0.969598
+        }, 
+        "49": {
+            "var": 0.9004581424406497, 
+            "num_utilized": 484273, 
+            "col_count": 13617, 
+            "idling": 0.00422, 
+            "utilization": 0.968546
+        }, 
+        "50": {
+            "var": 1.2595999999999996, 
+            "num_utilized": 484122, 
+            "col_count": 13898, 
+            "idling": 0.00396, 
+            "utilization": 0.968244
+        }, 
+        "51": {
+            "var": 1.2164552095347934, 
+            "num_utilized": 483874, 
+            "col_count": 14186, 
+            "idling": 0.00388, 
+            "utilization": 0.967748
+        }, 
+        "52": {
+            "var": 1.5014792899408294, 
+            "num_utilized": 482931, 
+            "col_count": 15087, 
+            "idling": 0.003964, 
+            "utilization": 0.965862
+        }, 
+        "53": {
+            "var": 1.5279458882164467, 
+            "num_utilized": 482778, 
+            "col_count": 15334, 
+            "idling": 0.003776, 
+            "utilization": 0.965556
+        }, 
+        "54": {
+            "var": 1.28395061728395, 
+            "num_utilized": 481570, 
+            "col_count": 16538, 
+            "idling": 0.003784, 
+            "utilization": 0.96314
+        }, 
+        "55": {
+            "var": 0.9223140495867765, 
+            "num_utilized": 481251, 
+            "col_count": 16950, 
+            "idling": 0.003598, 
+            "utilization": 0.962502
+        }, 
+        "56": {
+            "var": 1.061224489795918, 
+            "num_utilized": 480343, 
+            "col_count": 17769, 
+            "idling": 0.003776, 
+            "utilization": 0.960686
+        }, 
+        "57": {
+            "var": 1.3388734995383207, 
+            "num_utilized": 479845, 
+            "col_count": 18412, 
+            "idling": 0.003486, 
+            "utilization": 0.95969
+        }, 
+        "58": {
+            "var": 0.7942925089179547, 
+            "num_utilized": 479107, 
+            "col_count": 19177, 
+            "idling": 0.003432, 
+            "utilization": 0.958214
+        }, 
+        "59": {
+            "var": 1.2869864981327197, 
+            "num_utilized": 478637, 
+            "col_count": 19709, 
+            "idling": 0.003308, 
+            "utilization": 0.957274
+        }, 
+        "60": {
+            "var": 1.4322222222222218, 
+            "num_utilized": 477512, 
+            "col_count": 20786, 
+            "idling": 0.003404, 
+            "utilization": 0.955024
+        }, 
+        "61": {
+            "var": 1.3147003493684504, 
+            "num_utilized": 477018, 
+            "col_count": 21317, 
+            "idling": 0.00333, 
+            "utilization": 0.954036
+        }, 
+        "62": {
+            "var": 0.9846514047866807, 
+            "num_utilized": 476296, 
+            "col_count": 22119, 
+            "idling": 0.00317, 
+            "utilization": 0.952592
+        }, 
+        "63": {
+            "var": 1.5333837238599142, 
+            "num_utilized": 476019, 
+            "col_count": 22536, 
+            "idling": 0.00289, 
+            "utilization": 0.952038
+        }, 
+        "64": {
+            "var": 1.099365234375, 
+            "num_utilized": 474341, 
+            "col_count": 24202, 
+            "idling": 0.002914, 
+            "utilization": 0.948682
+        }, 
+        "65": {
+            "var": 1.338698224852071, 
+            "num_utilized": 472848, 
+            "col_count": 25563, 
+            "idling": 0.003178, 
+            "utilization": 0.945696
+        }, 
+        "66": {
+            "var": 1.2194674012855828, 
+            "num_utilized": 472275, 
+            "col_count": 26242, 
+            "idling": 0.002966, 
+            "utilization": 0.94455
+        }, 
+        "67": {
+            "var": 1.1717531744263758, 
+            "num_utilized": 471971, 
+            "col_count": 26537, 
+            "idling": 0.002984, 
+            "utilization": 0.943942
+        }, 
+        "68": {
+            "var": 1.4089532871972328, 
+            "num_utilized": 470785, 
+            "col_count": 27714, 
+            "idling": 0.003002, 
+            "utilization": 0.94157
+        }, 
+        "69": {
+            "var": 1.0514597773576972, 
+            "num_utilized": 470177, 
+            "col_count": 28421, 
+            "idling": 0.002804, 
+            "utilization": 0.940354
+        }, 
+        "70": {
+            "var": 1.318571428571429, 
+            "num_utilized": 468343, 
+            "col_count": 30305, 
+            "idling": 0.002704, 
+            "utilization": 0.936686
+        }, 
+        "71": {
+            "var": 1.2937909145010906, 
+            "num_utilized": 466313, 
+            "col_count": 32274, 
+            "idling": 0.002826, 
+            "utilization": 0.932626
+        }, 
+        "72": {
+            "var": 1.0275848765432103, 
+            "num_utilized": 466686, 
+            "col_count": 31962, 
+            "idling": 0.002704, 
+            "utilization": 0.933372
+        }, 
+        "73": {
+            "var": 1.543253893788702, 
+            "num_utilized": 464239, 
+            "col_count": 34443, 
+            "idling": 0.002636, 
+            "utilization": 0.928478
+        }, 
+        "74": {
+            "var": 0.7224251278305343, 
+            "num_utilized": 464182, 
+            "col_count": 34509, 
+            "idling": 0.002618, 
+            "utilization": 0.928364
+        }, 
+        "75": {
+            "var": 1.089066666666666, 
+            "num_utilized": 462755, 
+            "col_count": 35965, 
+            "idling": 0.00256, 
+            "utilization": 0.92551
+        }, 
+        "76": {
+            "var": 1.5013850415512453, 
+            "num_utilized": 461747, 
+            "col_count": 37012, 
+            "idling": 0.002482, 
+            "utilization": 0.923494
+        }, 
+        "77": {
+            "var": 1.2133580705009284, 
+            "num_utilized": 459941, 
+            "col_count": 38838, 
+            "idling": 0.002442, 
+            "utilization": 0.919882
+        }, 
+        "78": {
+            "var": 1.1735700197238659, 
+            "num_utilized": 458817, 
+            "col_count": 39918, 
+            "idling": 0.00253, 
+            "utilization": 0.917634
+        }, 
+        "79": {
+            "var": 1.3212626181701657, 
+            "num_utilized": 456990, 
+            "col_count": 41808, 
+            "idling": 0.002404, 
+            "utilization": 0.91398
+        }, 
+        "80": {
+            "var": 1.3599999999999999, 
+            "num_utilized": 455207, 
+            "col_count": 43612, 
+            "idling": 0.002362, 
+            "utilization": 0.910414
+        }, 
+        "81": {
+            "var": 1.2769394909312606, 
+            "num_utilized": 455195, 
+            "col_count": 43701, 
+            "idling": 0.002208, 
+            "utilization": 0.91039
+        }, 
+        "82": {
+            "var": 1.7122248661510995, 
+            "num_utilized": 452682, 
+            "col_count": 46153, 
+            "idling": 0.00233, 
+            "utilization": 0.905364
+        }, 
+        "83": {
+            "var": 1.231528523733488, 
+            "num_utilized": 450056, 
+            "col_count": 48773, 
+            "idling": 0.002342, 
+            "utilization": 0.900112
+        }, 
+        "84": {
+            "var": 0.9471371882086161, 
+            "num_utilized": 450435, 
+            "col_count": 48496, 
+            "idling": 0.002138, 
+            "utilization": 0.90087
+        }, 
+        "85": {
+            "var": 1.430311418685122, 
+            "num_utilized": 446989, 
+            "col_count": 51898, 
+            "idling": 0.002226, 
+            "utilization": 0.893978
+        }, 
+        "86": {
+            "var": 1.274202271498109, 
+            "num_utilized": 445636, 
+            "col_count": 53306, 
+            "idling": 0.002116, 
+            "utilization": 0.891272
+        }, 
+        "87": {
+            "var": 1.101334390276127, 
+            "num_utilized": 442306, 
+            "col_count": 56677, 
+            "idling": 0.002034, 
+            "utilization": 0.884612
+        }, 
+        "88": {
+            "var": 1.2019628099173556, 
+            "num_utilized": 441704, 
+            "col_count": 57225, 
+            "idling": 0.002142, 
+            "utilization": 0.883408
+        }, 
+        "89": {
+            "var": 1.1955561166519366, 
+            "num_utilized": 438643, 
+            "col_count": 60337, 
+            "idling": 0.00204, 
+            "utilization": 0.877286
+        }, 
+        "90": {
+            "var": 1.1506172839506161, 
+            "num_utilized": 438619, 
+            "col_count": 60357, 
+            "idling": 0.002048, 
+            "utilization": 0.877238
+        }, 
+        "91": {
+            "var": 1.5176911001086824, 
+            "num_utilized": 435070, 
+            "col_count": 63873, 
+            "idling": 0.002114, 
+            "utilization": 0.87014
+        }, 
+        "92": {
+            "var": 1.3963846880907378, 
+            "num_utilized": 434199, 
+            "col_count": 64847, 
+            "idling": 0.001908, 
+            "utilization": 0.868398
+        }, 
+        "93": {
+            "var": 1.2239565267661, 
+            "num_utilized": 430896, 
+            "col_count": 68168, 
+            "idling": 0.001872, 
+            "utilization": 0.861792
+        }, 
+        "94": {
+            "var": 1.0856722498868265, 
+            "num_utilized": 429331, 
+            "col_count": 69801, 
+            "idling": 0.001736, 
+            "utilization": 0.858662
+        }, 
+        "95": {
+            "var": 1.2549584487534642, 
+            "num_utilized": 427527, 
+            "col_count": 71550, 
+            "idling": 0.001846, 
+            "utilization": 0.855054
+        }, 
+        "96": {
+            "var": 0.9722222222222219, 
+            "num_utilized": 424757, 
+            "col_count": 74366, 
+            "idling": 0.001754, 
+            "utilization": 0.849514
+        }, 
+        "97": {
+            "var": 1.141460303964288, 
+            "num_utilized": 420365, 
+            "col_count": 78722, 
+            "idling": 0.001826, 
+            "utilization": 0.84073
+        }, 
+        "98": {
+            "var": 1.346105789254477, 
+            "num_utilized": 419519, 
+            "col_count": 79572, 
+            "idling": 0.001818, 
+            "utilization": 0.839038
+        }, 
+        "99": {
+            "var": 1.2533414957657374, 
+            "num_utilized": 418233, 
+            "col_count": 80907, 
+            "idling": 0.00172, 
+            "utilization": 0.836466
+        }, 
+        "100": {
+            "var": 0.9971000000000003, 
+            "num_utilized": 414088, 
+            "col_count": 85032, 
+            "idling": 0.00176, 
+            "utilization": 0.828176
+        }
+    }
+}

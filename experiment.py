@@ -31,14 +31,33 @@ Rs = [
 [  16 ,  32 ,  64 ,  128 ,  256 ,   ],
 ]
 
-with open('exps.out-2.json', 'wb') as out:
+#with open('exps.out-2.json', 'wb') as out:
+#    dump = {}
+#    for R in Rs:
+#        dump[R[0]] = {}
+#        results = [simmulate(n, R, L, M, T) for n in xrange(5, 100+1)] 
+#        for result in results:
+#            num_nodes, num_utilized, utilization, idling, var, col_count = result 
+#            dump[R[0]][num_nodes] = {
+#                'num_utilized': num_utilized,
+#                'utilization': utilization,
+#                'var': var,
+#                'col_count': col_count ,
+#                'idling': idling
+#            }
+#
+#    out.write(json.dumps(dump, indent=4))
+
+Ls = [20, 40, 60, 80, 100]
+
+with open('exps.out-3.json', 'wb') as out:
     dump = {}
-    for R in Rs:
-        dump[R[0]] = {}
+    for L in Ls:
+        dump[L] = {}
         results = [simmulate(n, R, L, M, T) for n in xrange(5, 100+1)] 
         for result in results:
             num_nodes, num_utilized, utilization, idling, var, col_count = result 
-            dump[R[0]][num_nodes] = {
+            dump[L][num_nodes] = {
                 'num_utilized': num_utilized,
                 'utilization': utilization,
                 'var': var,
