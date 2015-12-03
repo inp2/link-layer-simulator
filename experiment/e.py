@@ -2,11 +2,11 @@ import json
 import matplotlib.pyplot as plt
 
 
-with open('/home/imani/mp4/exps.out-2.json') as file:
+with open('/home/imani/mp4/exps.out-3.json') as file:
     data = json.load(file)
 
 y = []
-num = [1,2,4,8,16]
+num = [20, 40, 60, 80, 100]
 x = range(5, 101)
 
 for j in num:
@@ -16,8 +16,8 @@ for j in num:
     y = []
     x = range(5, 101)
 
-plt.title("Channel Utilization for an Number of Nodes  with Consecutive Collisions")
+plt.title("Channel Utilization for an Number of Nodes with Varying Packet Size")
 plt.ylabel('Channel Utilization (in percentage)')
 plt.xlabel('Number of Nodes')
-plt.legend(['R = 1', 'R = 2', 'R = 4', 'R = 8', 'R = 16'], loc='lower right')
+plt.legend(['L = 20', 'L = 40', 'L = 60', 'L = 80', 'L = 100'], loc='lower right')
 plt.show()

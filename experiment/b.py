@@ -7,7 +7,7 @@ with open('/home/imani/mp4/exps.out.json') as file:
     data = json.load(file)
 
 for i in range(5, 101):
-    y.append((1 - data[str(i)]['utilization'])*100)
+    y.append((data[str(i)]['idling'])*100)
 
 x = range(5, 101)
 
