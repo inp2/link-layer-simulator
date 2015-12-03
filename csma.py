@@ -8,6 +8,7 @@ class Channel:
     def __init__(self):
         self.sender = None
         self.col_count = 0
+        self.collided = False
 
     def acquire(self, sender):
         '''
@@ -15,11 +16,11 @@ class Channel:
         '''
         if self.sender is not None:
             self.col_count += 1
-            self.sender.notify_collision()
-            self.sender = None
+            self.collided = True
             return True
 
         self.sender = sender
+        return False
 
     def release(self):
         self.sender = None
@@ -118,18 +119,16 @@ def simmulate(num_nodes, rand_nums, packet_size, max_retries, time):
             max_retries)
 
     num_utilized = 0
-    # Need to simulate clock
-    #for i in xrange(time):
-    #    if channel.isIdle():
-    #        num_idled += 1
-    #        for node in node_list:
-    #            node.tick()
-    #    else:
-    #        channel.sender.tick()
     for i in xrange(time):
         if channel.isIdle():
             for node in node_list:
                 node.tick() 
+
+            if channel.collided:
+                channel.sender.notify_collision()
+                channel.sender = None
+                channel.collided = False
+
         else:
             channel.sender.tick()
             num_utilized += 1
